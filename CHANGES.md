@@ -30,6 +30,13 @@ Here the probabilities have been adjusted to saner levels. The higher level rune
 ## Superuniques
 Superunique monsters (such as Act bosses, quest bosses) no longer drop magic items. Instead they only drop Rare or higher.
 
+# Horadric Cube Recipes
+## Rejuvenation potion
+3 health potions + 3 mana potions = 1 rejuvenation potion (gem no longer needed).
+
+## Full Rejuvenation potion
+6 health potions + 6 mana potions = 1 full rejuvenation potion (replaces the 3 health, 3 mana + normal gem).
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
