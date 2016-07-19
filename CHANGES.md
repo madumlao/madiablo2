@@ -53,7 +53,7 @@ Thus the following changes were made:
 2. Plague Javelin deals .3125 to 0.5 damage per frame (7.8125 to 12.5/sec) but lasts 8 seconds and has a larger area. At level 1, this counts for 62-100 damage.
 3. Poison Javelin recast delay removed. It is now an alternative to lightning bolt.
 
-Plague Javelin is weaker in absolute damage, but it hits more enemies with poison and lasts longer. Poison Javelin
+Plague Javelin is weaker in damage per second, but it hits more enemies with poison and lasts longer, thus dealing more damage over time. Poison Javelin, on the other hand, is a direct combat spell, so it does more damage per second, although it lasts shorter.
 
 ## Necromancer
 ### Skeleton Mage (aka necromage)
