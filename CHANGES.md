@@ -55,7 +55,8 @@ Thus the following changes were made:
 
 Plague Javelin is weaker in absolute damage, but it hits more enemies with poison and lasts longer. Poison Javelin
 
-## Skeleton Mage (aka necromage)
+## Necromancer
+### Skeleton Mage (aka necromage)
 Poison Necromages used to a do a ridiculous "1 dmg every 10 seconds" crap, and levelling them up increased the duration by a further 10 seconds. This is insane. Basically if you spawn a poison necromage, despawn it immediately and replace it with fire.
 
 Poison Necromage has been updated to be comparable to other necromages. It now does 4.875 damage per second for 1 second, compared to cold (1-4), fire (2-6), lightning (1-7). Higher levels increase the damage by about 1.5 per second, but also increases the poison duration by 1/5 of a second each, compared to the other elements which increase average damage by 2, or cold by 1. This makes poison _slightly_ stronger than the other elements, but it takes slightly longer to deal its damage.
