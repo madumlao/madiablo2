@@ -1,4 +1,13 @@
 # Drop Rates
+## Nodrops
+A "nodrop" is a treasure class that drops no treasure. Each monster, chest, etc that has been assigned a "nodrop" has a percentage chance that it does not drop anything. Most bosses and chests actually "drop" multiple items, however, some of those drops are "nodrops" and so they don't always drop the maximum number of items.
+
+Nodrops have been removed from chests.
+
+Nodrops have been removed from superunique monsters.
+
+Nodrop ratio has been reduced in ordinary monsters from 100 to 64.
+
 ## Gems
 Gems are used in a lot of recipes, and in and of themselves as equipment buffs. But not only are gems themselves rare, but you can hardly get the right one.
 
