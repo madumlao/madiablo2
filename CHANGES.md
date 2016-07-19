@@ -62,6 +62,18 @@ Poison Necromages used to a do a ridiculous "1 dmg every 10 seconds" crap, and l
 Poison Necromage has been updated to be comparable to other necromages. It now does 4.875 damage per second for 1 second, compared to cold (1-4), fire (2-6), lightning (1-7). Higher levels increase the damage by about 1.5 per second, but also increases the poison duration by 1/5 of a second each, compared to the other elements which increase average damage by 2, or cold by 1. This makes poison _slightly_ stronger than the other elements, but it takes slightly longer to deal its damage.
 
 ## Poison Dagger
-Poison Dagger is almost universally recognized to be an underwhelming skill, in part because daggers are underwhelming. Poison dagger can now be used with swords (no different than daggers) and polearms (to match the HotS necro that uses a scythe) and should probably get a name change to "Poison blade".
+Poison Dagger is almost universally recognized to be an underwhelming skill, in part because daggers are underwhelming. In Blizzard's "Heroes of the Storm", however, the Diablo2 necromancer is represented as a melee specialist. Thus, according to canon, the necro's melee game should be dramatically better. Poison dagger has been made to reflect this.
+
+Poison dagger can now be used with swords (no different than daggers) and polearms (to match the HotS necro that uses a scythe) and should probably get a name change to "Poison blade".
 
 TODO: update the name and description to "Poison blade".
+
+TODO: necros can dual-wield scythe and dagger.
+
+TODO: scythes can auto-add necro skills.
+
+Poison dagger mana cost reduced by half (from 3 to 1.5). Since poison dagger is a "direct combat spell", damage has been increased and duration decreased. This makes poison dagger dramatically stronger.
+
+At level 1, poison dagger now does 9-18 poison damage per second over 1 second (up from 3.5-7.5 per second per 2 seconds). At level 2, 12-21 per second, at level 3, 15-25 and so on. At the same time, poison duration increases by .2 seconds per level, which makes the damage progression increase quickly. Actually, it now uses the same damage calculations of poison explosion, only that the poison duration is shorter (as PD is intended to be inflicted multiple times on the same enemy).
+
+Note that even though the bonus appear huge for elemental attacks, this should still be smaller than elemental damage bonuses on most fighter classes, because fighter classes do instantaneous damage whereas poison goes through diablo's complicated poison stacking algorithm. In other words, 10 hits from 1-50 lightning damage will do an average of 255 damage. 10 hits from 1-50 poison damage over 2 seconds should do 255 poison damage, however, if stacked with different durations of poison may do more or less than the average damage.
