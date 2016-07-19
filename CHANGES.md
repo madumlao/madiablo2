@@ -8,6 +8,9 @@ Nodrops have been removed from superunique monsters.
 
 Nodrop ratio has been reduced in ordinary monsters from 100 to 64.
 
+## Item Ratios
+Adjusted item ratios to make Uniques, Rares, and Set items significantly more common.
+
 ## Gems
 Gems are used in a lot of recipes, and in and of themselves as equipment buffs. But not only are gems themselves rare, but you can hardly get the right one.
 
