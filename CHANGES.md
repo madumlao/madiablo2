@@ -1,3 +1,11 @@
+# Drop Rates
+## Gems
+Gems are used in a lot of recipes, and in and of themselves as equipment buffs. But not only are gems themselves rare, but you can hardly get the right one.
+
+Gems drop rates have been significantly increased by adding them to the "junk" class of tresure (that spawns scrolls, keys, arrows, and bolts). In Act 1, gems will drop at about 1/4 the rate of arrows and bolts. From Act 2 onwards, they drop at roughly 5/8 the rate.
+
+From Act 2 onwards, 2 kinds of gems drop: one of lower quality and one of higher quality (one grade above the current). The lower quality gem drops 80% of the time, the rest is the higher quality gem. In Act 2 this is chipped and flawed. In Act 3 it's flawed and normal. In Act 4 it's normal and flawless. Then in Act 5 and all higher difficulties, it's flawless and perfect.
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
