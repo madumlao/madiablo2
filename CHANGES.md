@@ -78,6 +78,17 @@ At level 1, poison dagger now does 9-18 poison damage per second over 1 second (
 
 Note that even though the bonus appear huge for elemental attacks, this should still be smaller than elemental damage bonuses on most fighter classes, because fighter classes do instantaneous damage whereas poison goes through diablo's complicated poison stacking algorithm. In other words, 10 hits from 1-50 lightning damage will do an average of 255 damage. 10 hits from 1-50 poison damage over 2 seconds should do 255 poison damage, however, if stacked with different durations of poison may do more or less than the average damage.
 
+## Teeth
+Originally, teeth was a waste of skill points. It doesn't have to be that way.
+
+First, let's compare it to the rest of the necromancer's missile spells. The necro already has a crowd control piercing technique for handling lines. He also already has a single target large damage attack.
+
+While teeth appears to be a crowd control skill, it does too little damage to matter unless you dump all your skills into it. So we need to raise damage somewhat: teeth damage progression is increased significantly, starting from 2-5, and adding 1-2 damage per level. Furthermore, bone spell synergies are increased to 20%, so teeth gets somewhat more damage from higher level spells.
+
+More interestingly, I removed the "Next hit timer" flag on teeth, which prevents an opponent from getting hit by multiple teeth at a time. This turns teeth into a "shotgun" type weapon, a mix between bonespear crowd control (from far away) and bone spirit heavy damage (from up close).
+
+Teeth range has also been increased by half, allowing it to hit further.
+
 ## Paladin
 ### Offensive Elemental Auras
 The offensive elemental auras do 2 things: splash damage, and attack damage.
