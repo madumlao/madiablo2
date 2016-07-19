@@ -6,6 +6,15 @@ Gems drop rates have been significantly increased by adding them to the "junk" c
 
 From Act 2 onwards, 2 kinds of gems drop: one of lower quality and one of higher quality (one grade above the current). The lower quality gem drops 80% of the time, the rest is the higher quality gem. In Act 2 this is chipped and flawed. In Act 3 it's flawed and normal. In Act 4 it's normal and flawless. Then in Act 5 and all higher difficulties, it's flawless and perfect.
 
+## Runes
+Runewords are one of the few ways of getting higher-level gear that the player has any agency over. However that agency is largely overshadowed by how difficult it is to even get a rune, much less the right ones.
+
+Runes are very rare drops in the original game, so I increased their drop rate. Runes now spawn from "good" drops (usually higher level chests or monsters) at a comparable rate to rings, amulets, and charms, taking the place of gems being dropped.
+
+Furthermore, rune drop rate has been adjusted. Runes used to drop in 2 classes (like gems above), with the lower class rune dropping much more than the higher class rune. HOWEVER, the probability gap between the two increases exponentially with the higher rune levels. At the highest rune levels, the disparity between the 2 classes is so huge (the highest one dropping at less than 1/10000) that the only way to get higher level runes is to trade for them.
+
+Here the probabilities have been adjusted to saner levels. The higher level runes are still harder to find, but in probabilities like 1:6 or 2:7.
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
