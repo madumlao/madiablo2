@@ -24,6 +24,9 @@ Furthermore, rune drop rate has been adjusted. Runes used to drop in 2 classes (
 
 Here the probabilities have been adjusted to saner levels. The higher level runes are still harder to find, but in probabilities like 1:6 or 2:7.
 
+# Superuniques
+Superunique monsters (such as Act bosses, quest bosses) no longer drop magic items. Instead they only drop Rare or higher.
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
