@@ -99,5 +99,3 @@ With the damage gap between the elemental auras being significantly decreased, e
 But wait, there's more. It takes too many skill points in the offensive auras to make them "not useless", and you have to decide way too early. Thus all the elemental auras are made synergies of each other. After all, they're all similar to each other skill-wise. Thus a holy fire paladin can pivot to holy shock or holy freeze without too much regrets. They also get synergies from Vengeance (which adds elemental damage to attacks).
 
 TODO: add synergies to vengeance based on holy auras
-
-TODO: get synergy damage upgrade to reflect in stats screen
