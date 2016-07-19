@@ -77,3 +77,27 @@ Poison dagger mana cost reduced by half (from 3 to 1.5). Since poison dagger is 
 At level 1, poison dagger now does 9-18 poison damage per second over 1 second (up from 3.5-7.5 per second per 2 seconds). At level 2, 12-21 per second, at level 3, 15-25 and so on. At the same time, poison duration increases by .2 seconds per level, which makes the damage progression increase quickly. Actually, it now uses the same damage calculations of poison explosion, only that the poison duration is shorter (as PD is intended to be inflicted multiple times on the same enemy).
 
 Note that even though the bonus appear huge for elemental attacks, this should still be smaller than elemental damage bonuses on most fighter classes, because fighter classes do instantaneous damage whereas poison goes through diablo's complicated poison stacking algorithm. In other words, 10 hits from 1-50 lightning damage will do an average of 255 damage. 10 hits from 1-50 poison damage over 2 seconds should do 255 poison damage, however, if stacked with different durations of poison may do more or less than the average damage.
+
+## Paladin
+### Offensive Elemental Auras
+The offensive elemental auras do 2 things: splash damage, and attack damage.
+
+For all of the elemental auras, the splash damage sucks tremendously. Holy fire, for example does 1-3 damage every 2seconds. Holy shock does 1-10 damage every 2 seconds. At higher levels, neither of these are strong enough to even hitstun enemies. Thus both tend to be used for the additional elemental damage to attack.
+
+However, since the additional attack damage depends on the aura damage, the bonus still sucks. And as both fire and lightning tend to be used primarily for damage, there is no difference between either one save for the elemental boost. Heck, even with the elemental boost, holy fire is so far below holy shock that you'd probably still be better off with holy shock on lightning resistant enemies.
+
+The offensive elemental auras are now rebalanced.
+
+First, holy fire. Throughout the game, fire is often used for consistent area or splash damage. Thus, holy fire should trigger more often than holy shock - holy fire now triggers every second (instead of every 2) and starts off at an average of 10dps (4-16), increasing by 6 damage per second per level (exponentially increasing). Holy fire's attack damage modifier, however, is double its aura damage (20 dmg), since fire spells do more damage to their main target.
+
+Next, holy shock. Unlike fire, lightning is often used to represent highly variable damage, with a chance of doing larger damage. Thus holy shock only triggers once every 3 seconds, but it does a wider range of damage, 1-60. This does an average of 20.3dps, increasing by about 6.6 damage per second per level (exponentially increasing). Holy shock adds its elemental damage to attacks unmodified (1-60), since lightning spells do the same damage to all targets.
+
+Then comes holy freeze. Holy freeze aura damage was simply multiplied by 5, so that the aura damage is equivalent to the previous bonus elemental damage, this means it starts off at 12.5 damage per second and 5 damage per second per level (exponentially increasing). Holy freeze adds its elemental aura damage to its attacks unmodified (10-15), since cold spells do the same damage to all targets.
+
+With the damage gap between the elemental auras being significantly decreased, each aura now plays up the stragic value of its element and paladins are more free to choose elemental auras based on their effect rather than pure damage. Holy fire is best against larger groups of weaker enemies as it does steady splash damage to all - this is supposed to be the original intention of Fire Golem's aura, but since Holy Fire is so pathetic by the time it comes out, a lot of necromancers simply don't bother with the higher level golems. Holy shock is best against groups of tougher enemies that holy fire don't drop, because at least holy shock has a chance of hitstunning several of them. And holy freeze is best used for even tougher enemies than the above, because at least you slow everyone.
+
+But wait, there's more. It takes too many skill points in the offensive auras to make them "not useless", and you have to decide way too early. Thus all the elemental auras are made synergies of each other. After all, they're all similar to each other skill-wise. Thus a holy fire paladin can pivot to holy shock or holy freeze without too much regrets. They also get synergies from Vengeance (which adds elemental damage to attacks).
+
+TODO: add synergies to vengeance based on holy auras
+
+TODO: get synergy damage upgrade to reflect in stats screen
