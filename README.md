@@ -36,3 +36,5 @@ Anyways, that's the spirit of what I'm trying to accomplish. Basically, I want a
 I'm literally making this up as I go along, using only my game design instincts, and my and my sister's experience. This does, of course, mean that most of my attention and rebalancing will be on characters we are playing. If I haven't gotten around to fixing sorc, barb, or pally stuff - that's the main reason.
 
 So far my sister's been enjoying it, and the game feels like a real challenge and experience rather than a god-mode walk.
+
+This also means that this mod is _not_ intended for PvP balancing, but rather for cooperative / party experience.
