@@ -54,6 +54,9 @@ Daggers will now spawn with necro autoskills, to give incentive to use "poison d
 
 TODO: give incentive to use necro wands
 
+## Necro Scythes
+Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills.
+
 
 # Skills
 ## Amazon
