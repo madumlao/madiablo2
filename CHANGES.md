@@ -44,6 +44,10 @@ Shrines make the game easier to fly through, but they last too short. All shrine
 Resist boosts have been increased from 75% to 120% so that they give greater effect on Nightmare and Hell.
 
 
+# Shops
+Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skil 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
+
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
