@@ -48,6 +48,13 @@ Resist boosts have been increased from 75% to 120% so that they give greater eff
 Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skil 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
 
 
+# Weapons
+## Necro Daggers
+Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers.
+
+TODO: give incentive to use necro wands
+
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
