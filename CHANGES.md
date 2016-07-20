@@ -87,7 +87,7 @@ While teeth appears to be a crowd control skill, it does too little damage to ma
 
 More interestingly, I removed the "Next hit timer" flag on teeth, which prevents an opponent from getting hit by multiple teeth at a time. This turns teeth into a "shotgun" type weapon, a mix between bonespear crowd control (from far away) and bone spirit heavy damage (from up close).
 
-Teeth range has also been increased by half, allowing it to hit further.
+Teeth range and speed also been increased by half, allowing it to hit further.
 
 ## Paladin
 ### Offensive Elemental Auras
