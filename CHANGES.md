@@ -37,6 +37,13 @@ Superunique monsters (such as Act bosses, quest bosses) no longer drop magic ite
 ## Full Rejuvenation potion
 6 health potions + 6 mana potions = 1 full rejuvenation potion (replaces the 3 health, 3 mana + normal gem).
 
+
+# Shrines
+Shrines make the game easier to fly through, but they last too short. All shrine durations (except the experience shrine) have been increased by 5 times, whereas their reset times were all set to 1 minute.
+
+Resist boosts have been increased from 75% to 120% so that they give greater effect on Nightmare and Hell.
+
+
 # Skills
 ## Amazon
 ### Poison Javelin / Plague Javelin
