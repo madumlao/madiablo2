@@ -103,8 +103,6 @@ TODO: update the name and description to "Poison blade".
 
 TODO: necros can dual-wield scythe and dagger.
 
-TODO: scythes can auto-add necro skills.
-
 Poison dagger mana cost reduced by half (from 3 to 1.5). Since poison dagger is a "direct combat spell", damage has been increased and duration decreased. This makes poison dagger dramatically stronger.
 
 At level 1, poison dagger now does 9-18 poison damage per second over 1 second (up from 3.5-7.5 per second per 2 seconds). At level 2, 12-21 per second, at level 3, 15-25 and so on. At the same time, poison duration increases by .2 seconds per level, which makes the damage progression increase quickly. Actually, it now uses the same damage calculations of poison explosion, only that the poison duration is shorter (as PD is intended to be inflicted multiple times on the same enemy).
