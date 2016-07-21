@@ -66,6 +66,9 @@ TODO: give incentive to use necro wands
 ## Necro Scythes
 Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills.
 
+## Polearms
+All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
+
 
 # Skills
 ## Amazon
