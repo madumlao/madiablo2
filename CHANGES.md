@@ -1,3 +1,12 @@
+# Classes
+## Necromancer
+Although Necromancers are still meant to be powerful zoners, their melee game has improved signicantly, taking cues from the Heroes of the Storm necromancer, Xul, who is a melee specialist.
+
+Necros had the second slowest attack speed (19 frames) after the Sorceress (20 frames) 2 dead end skills (teeth and poison dagger) that would otherwise be powerful up close. Furthermore, as necros are already heavily skill dependent, their choices of weapons are poor due to their dependence on wands for skill boosts.
+
+Necro attack speed has been lowered to 17 frames, on par with the Paladin, and their teeth skill now serves as a powerful up close shotgun. Furthermore, their poison dagger skill can now be used with a variety of blades, including the Necromancer's signature Scythe.
+
+
 # Drop Rates
 ## Nodrops
 A "nodrop" is a treasure class that drops no treasure. Each monster, chest, etc that has been assigned a "nodrop" has a percentage chance that it does not drop anything. Most bosses and chests actually "drop" multiple items, however, some of those drops are "nodrops" and so they don't always drop the maximum number of items.
