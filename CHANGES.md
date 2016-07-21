@@ -59,10 +59,10 @@ Wand, staff, and scepter prices are completely ridiculous for single player, eas
 
 # Weapons
 ## Necro Daggers
-Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers.
+Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers. Daggers may now also spawn with +skilltabs for necromancers.
 
 ## Necro Scythes
-Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills.
+Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills. Scythes may now also spawn with +skilltabs for necromancers.
 
 ## Necro Wands
 Wands are meant to be used magically, as opposed to physically. Thus Necromancers can inflict pain using a wand from afar. Wand range has been increased to 20, allowing a necromancer to swing from behind his meat shields.
