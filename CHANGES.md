@@ -61,10 +61,13 @@ Wand, staff, and scepter prices are completely ridiculous for single player, eas
 ## Necro Daggers
 Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers.
 
-TODO: give incentive to use necro wands
-
 ## Necro Scythes
 Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills.
+
+## Necro Wands
+Wands are meant to be used magically, as opposed to physically. Thus Necromancers can inflict pain using a wand from afar. Wand range has been increased to 20, allowing a necromancer to swing from behind his meat shields.
+
+While wand damage is likely to be weak and attack rating is likely to be low, a Necromancer's attack is augmented by any enchantments, charms, etc that work on the wand. For instance, wands that have a chance of triggering magic, or that deliver cold damage, will be significantly more useful. Furthermore, the meager poison damage that comes from Necromancer heads can be applied to multiple creatures, and bonuses such as life and mana drain will be applied on the attack.
 
 ## Polearms
 All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
