@@ -1,14 +1,6 @@
-# Classes
-## Necromancer
-Although Necromancers are still meant to be powerful zoners, their melee game has improved signicantly, taking cues from the Heroes of the Storm necromancer, Xul, who is a melee specialist.
-
-Necros had the second slowest attack speed (19 frames) after the Sorceress (20 frames) 2 dead end skills (teeth and poison dagger) that would otherwise be powerful up close. Furthermore, as necros are already heavily skill dependent, their choices of weapons are poor due to their dependence on wands for skill boosts.
-
-Necro attack speed has been lowered to 17 frames, on par with the Paladin, and their teeth skill now serves as a powerful up close shotgun. Furthermore, their poison dagger skill can now be used with a variety of blades, including the Necromancer's signature Scythe.
-
-
-# Drop Rates
-## Nodrops
+# Items
+## Drop Rates
+### Nodrops
 A "nodrop" is a treasure class that drops no treasure. Each monster, chest, etc that has been assigned a "nodrop" has a percentage chance that it does not drop anything. Most bosses and chests actually "drop" multiple items, however, some of those drops are "nodrops" and so they don't always drop the maximum number of items.
 
 Nodrops have been removed from chests.
@@ -17,17 +9,17 @@ Nodrops have been removed from superunique monsters.
 
 Nodrop ratio has been reduced in ordinary monsters from 100 to 64.
 
-## Item Ratios
+### Item Ratios
 Adjusted item ratios to make Uniques, Rares, and Set items significantly more common.
 
-## Gems
+### Gems
 Gems are used in a lot of recipes, and in and of themselves as equipment buffs. But not only are gems themselves rare, but you can hardly get the right one.
 
 Gems drop rates have been significantly increased by adding them to the "junk" class of tresure (that spawns scrolls, keys, arrows, and bolts). In Act 1, gems will drop at about 1/4 the rate of arrows and bolts. From Act 2 onwards, they drop at roughly 5/8 the rate.
 
 From Act 2 onwards, 2 kinds of gems drop: one of lower quality and one of higher quality (one grade above the current). The lower quality gem drops 80% of the time, the rest is the higher quality gem. In Act 2 this is chipped and flawed. In Act 3 it's flawed and normal. In Act 4 it's normal and flawless. Then in Act 5 and all higher difficulties, it's flawless and perfect.
 
-## Runes
+### Runes
 Runewords are one of the few ways of getting higher-level gear that the player has any agency over. However that agency is largely overshadowed by how difficult it is to even get a rune, much less the right ones.
 
 Runes are very rare drops in the original game, so I increased their drop rate. Runes now spawn from "good" drops (usually higher level chests or monsters) at a comparable rate to rings, amulets, and charms, taking the place of gems being dropped.
@@ -36,44 +28,37 @@ Furthermore, rune drop rate has been adjusted. Runes used to drop in 2 classes (
 
 Here the probabilities have been adjusted to saner levels. The higher level runes are still harder to find, but in probabilities like 1:6 or 2:7.
 
-## Superuniques
+### Superuniques
 Superunique monsters (such as Act bosses, quest bosses) no longer drop magic items. Instead they only drop Rare or higher.
 
-# Horadric Cube Recipes
-## Rejuvenation potion
+## Horadric Cube Recipes
+### Rejuvenation potion
 3 health potions + 3 mana potions = 1 rejuvenation potion (gem no longer needed).
 
-## Full Rejuvenation potion
+### Full Rejuvenation potion
 6 health potions + 6 mana potions = 1 full rejuvenation potion (replaces the 3 health, 3 mana + normal gem).
 
+## Shops
+### autoskill items
+Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skill 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
 
-# Shrines
-Shrines make the game easier to fly through, but they last too short. All shrine durations (except the experience shrine) have been increased by 5 times, whereas their reset times were all set to 1 minute.
-
-Resist boosts have been increased from 75% to 120% so that they give greater effect on Nightmare and Hell.
-
-
-# Shops
-Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skil 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
-
-
-# Weapons
-## Necro Daggers
+## Weapons
+### Necro Daggers
 Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers. Daggers may now also spawn with +skilltabs for necromancers.
 
-## Necro Scythes
+### Necro Scythes
 Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills. Scythes may now also spawn with +skilltabs for necromancers.
 
-## Necro Wands
+### Necro Wands
 Wands are meant to be used magically, as opposed to physically. Thus Necromancers can inflict pain using a wand from afar. Wand range has been increased to 20, allowing a necromancer to swing from behind his meat shields.
 
 While wand damage is likely to be weak and attack rating is likely to be low, a Necromancer's attack is augmented by any enchantments, charms, etc that work on the wand. For instance, wands that have a chance of triggering magic, or that deliver cold damage, will be significantly more useful. Furthermore, the meager poison damage that comes from Necromancer heads can be applied to multiple creatures, and bonuses such as life and mana drain will be applied on the attack.
 
-## Polearms
+### Polearms
 All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
 
 
-# Skills
+# Rebalancing
 ## Amazon
 ### Poison Javelin / Plague Javelin
 Poison and Plague Javelin are highly similar to each other. Thus, players will tend to only use the one that deals the most damage.
@@ -92,12 +77,18 @@ Thus the following changes were made:
 Plague Javelin is weaker in damage per second, but it hits more enemies with poison and lasts longer, thus dealing more damage over time. Poison Javelin, on the other hand, is a direct combat spell, so it does more damage per second, although it lasts shorter.
 
 ## Necromancer
+Although Necromancers are still meant to be powerful zoners, their melee game has improved signicantly, taking cues from the Heroes of the Storm necromancer, Xul, who is a melee specialist.
+
+Necros had the second slowest attack speed (19 frames) after the Sorceress (20 frames) 2 dead end skills (teeth and poison dagger) that would otherwise be powerful up close. Furthermore, as necros are already heavily skill dependent, their choices of weapons are poor due to their dependence on wands for skill boosts.
+
+Necro attack speed has been lowered to 17 frames, on par with the Paladin, and their teeth skill now serves as a powerful up close shotgun. Furthermore, their poison dagger skill can now be used with a variety of blades, including the Necromancer's signature Scythe.
+
 ### Skeleton Mage (aka necromage)
 Poison Necromages used to a do a ridiculous "1 dmg every 10 seconds" crap, and levelling them up increased the duration by a further 10 seconds. This is insane. Basically if you spawn a poison necromage, despawn it immediately and replace it with fire.
 
 Poison Necromage has been updated to be comparable to other necromages. It now does 4.875 damage per second for 1 second, compared to cold (1-4), fire (2-6), lightning (1-7). Higher levels increase the damage by about 1.5 per second, but also increases the poison duration by 1/5 of a second each, compared to the other elements which increase average damage by 2, or cold by 1. This makes poison _slightly_ stronger than the other elements, but it takes slightly longer to deal its damage.
 
-## Poison Dagger
+### Poison Dagger
 Poison Dagger is almost universally recognized to be an underwhelming skill, in part because daggers are underwhelming. In Blizzard's "Heroes of the Storm", however, the Diablo2 necromancer is represented as a melee specialist. Thus, according to canon, the necro's melee game should be dramatically better. Poison dagger has been made to reflect this.
 
 Poison dagger can now be used with swords (no different than daggers) and polearms (to match the HotS necro that uses a scythe) and should probably get a name change to "Poison blade".
@@ -112,7 +103,7 @@ At level 1, poison dagger now does 9-18 poison damage per second over 1 second (
 
 Note that even though the bonus appear huge for elemental attacks, this should still be smaller than elemental damage bonuses on most fighter classes, because fighter classes do instantaneous damage whereas poison goes through diablo's complicated poison stacking algorithm. In other words, 10 hits from 1-50 lightning damage will do an average of 255 damage. 10 hits from 1-50 poison damage over 2 seconds should do 255 poison damage, however, if stacked with different durations of poison may do more or less than the average damage.
 
-## Teeth
+### Teeth
 Originally, teeth was a waste of skill points. It doesn't have to be that way.
 
 First, let's compare it to the rest of the necromancer's missile spells. The necro already has a crowd control piercing technique for handling lines. He also already has a single target large damage attack.
@@ -144,3 +135,12 @@ With the damage gap between the elemental auras being significantly decreased, e
 But wait, there's more. It takes too many skill points in the offensive auras to make them "not useless", and you have to decide way too early. Thus all the elemental auras are made synergies of each other. After all, they're all similar to each other skill-wise. Thus a holy fire paladin can pivot to holy shock or holy freeze without too much regrets. They also get synergies from Vengeance (which adds elemental damage to attacks).
 
 TODO: add synergies to vengeance based on holy auras
+
+
+
+
+# Miscellaneous
+## Shrines
+Shrines make the game easier to fly through, but they last too short. All shrine durations (except the experience shrine) have been increased by 5 times, whereas their reset times were all set to 1 minute.
+
+Resist boosts have been increased from 75% to 120% so that they give greater effect on Nightmare and Hell.
