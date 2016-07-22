@@ -43,6 +43,10 @@ Wands are meant to be used magically, as opposed to physically. Thus Necromancer
 
 While wand damage is likely to be weak and attack rating is likely to be low, a Necromancer's attack is augmented by any enchantments, charms, etc that work on the wand. For instance, wands that have a chance of triggering magic, or that deliver cold damage, will be significantly more useful. Furthermore, the meager poison damage that comes from Necromancer heads can be applied to multiple creatures, and bonuses such as life and mana drain will be applied on the attack.
 
+Strength does not affect wand damage. This discourages other characters from buying / using wands and rewards a wand-using necromancer for truly focusing on magic. Instead, wand damage is controlled by automods that affect damage / level and attack rating per level.
+
+TODO: do the same thing for Sorceresss wands, only that they deal higher damage
+
 ### Polearms
 All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
 
