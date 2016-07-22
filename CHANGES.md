@@ -31,17 +31,6 @@ Here the probabilities have been adjusted to saner levels. The higher level rune
 ### Superuniques
 Superunique monsters (such as Act bosses, quest bosses) no longer drop magic items. Instead they only drop Rare or higher.
 
-## Horadric Cube Recipes
-### Rejuvenation potion
-3 health potions + 3 mana potions = 1 rejuvenation potion (gem no longer needed).
-
-### Full Rejuvenation potion
-6 health potions + 6 mana potions = 1 full rejuvenation potion (replaces the 3 health, 3 mana + normal gem).
-
-## Shops
-### autoskill items
-Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skill 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
-
 ## Weapons
 ### Necro Daggers
 Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers. Daggers may now also spawn with +skilltabs for necromancers.
@@ -56,6 +45,30 @@ While wand damage is likely to be weak and attack rating is likely to be low, a 
 
 ### Polearms
 All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
+
+## Potions
+### Full Healing / Full Mana
+Full health and full mana potions now drop, although rarely. They can also be created from the Horadric cube - they are cheaper to create than a full rejuvenation potion.
+
+## Horadric Cube Recipes
+### Rejuvenation potion
+3 health potions + 3 mana potions = 1 rejuvenation potion (gem no longer needed).
+
+### Full Rejuvenation potion
+6 health potions + 6 mana potions = 1 full rejuvenation potion (replaces the 3 health, 3 mana + normal gem).
+
+### Full Health Potion
+3 health potions + 1 mana potion = 1 full healing potion.
+
+### Full Mana Potion
+3 mana potions + 1 health potion = 1 full mana potion
+
+### Full health + Full mana
+1 full health + 1 full mana potion = 1 full rejuvenation potion.
+
+## Shops
+### Autoskill items
+Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skill 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
 
 
 # Rebalancing

@@ -150,3 +150,6 @@ r01 + gcv + tempered weapon -> +30-50 ar				100					3	weap,tmp	r01	gcv					useit
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+3 health potions + 1 mana potion -> full healing potion	1			0					4	hpot,qty=3	mpot						hpf																																																																																							0
+3 mana potions +  1 health potion -> full mana potion	1			0					4	hpot	mpot,qty=3						mpf																																																																																							0
+1 full healing + 1 full mana -> one full rejuv	1			0					2	hpf	mpf						rvl																																																																																							0
