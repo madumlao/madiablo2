@@ -70,6 +70,9 @@ Full health and full mana potions now drop, although rarely. They can also be cr
 ### Autoskill items
 Wand, staff, and scepter prices are completely ridiculous for single player, easily jumping to the 100K mark just because a couple high-level skills get +3. All skill 'cost adds' are reduced to 1/8. Wands and the like are _still_ expensive, but dramaticlly less so.
 
+### Rings and Amulets
+Rings and Amulets have huge fixed prices when gambling. This price was reduced to 1/5.
+
 
 # Rebalancing
 ## Amazon
