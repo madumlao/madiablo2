@@ -38,14 +38,14 @@ Daggers will now spawn with necro autoskills, to give incentive to use "poison d
 ### Necro Scythes
 Scythes have been made into a subtype of polearm. Scythes will now spawn with necro autoskills. Scythes may now also spawn with +skilltabs for necromancers.
 
-### Necro Wands
-Wands are meant to be used magically, as opposed to physically. Thus Necromancers can inflict pain using a wand from afar. Wand range has been increased to 20, allowing a necromancer to swing from behind his meat shields.
+### Necro Wands and Sorceress Globes
+Wands are meant to be used magically, as opposed to physically. Thus Necromancers and Sorceresses can inflict pain using a wand from afar - wand and globe range has been increased to 20 - and globe damage has been increased dramatically. This allows their attacks to hit further, possibly from behind meat shields.
 
-While wand damage is likely to be weak and attack rating is likely to be low, a Necromancer's attack is augmented by any enchantments, charms, etc that work on the wand. For instance, wands that have a chance of triggering magic, or that deliver cold damage, will be significantly more useful. Furthermore, the meager poison damage that comes from Necromancer heads can be applied to multiple creatures, and bonuses such as life and mana drain will be applied on the attack.
+While wand damage is likely to be weak and attack rating is likely to be low, attacks can be augmented by any enchantments, charms, etc that work on the wand. For instance, wands that have a chance of triggering magic, or that deliver cold damage, will be significantly more useful. Furthermore, the meager poison damage that comes from Necromancer heads can be applied to multiple creatures, and bonuses such as life and mana drain will be applied on the attack.
 
-Strength does not affect wand damage. This discourages other characters from buying / using wands and rewards a wand-using necromancer for truly focusing on magic. Instead, wand damage is controlled by automods that affect damage / level and attack rating per level.
+Strength does not affect wand damage. This discourages other characters from buying / using wands and rewards a wand-using caster for truly focusing on magic. Instead, wand damage is controlled by automods that affect damage / level and attack rating per level.
 
-TODO: do the same thing for Sorceresss wands, only that they deal higher damage
+Globes no longer spawn with mana boost increases. These have been replaced with the attack range modifier.
 
 ### Polearms
 All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
