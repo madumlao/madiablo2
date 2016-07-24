@@ -90,6 +90,11 @@ Runewords have been adjusted to make them more universal / accessible to all cla
 ### Steel
 Steel was originally only meant for Swords, Axes, and Maces. It now applies to all melee weapons.
 
+### Leaf
+Leaf originally only works on Sorceress Staves. It now applies to all blunt weapons.
+
+Leaf originally gave Sorceress only +3 skills to Warmth, Fire Bolt, and Inferno. It now gives +3 skills to the above regardless of class.
+
 ### Holy Thunder
 Holy Thunder originally only applied to Paladin Scepters. It can now be used on any blunt weapon.
 
