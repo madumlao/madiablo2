@@ -90,6 +90,8 @@ Runewords have been adjusted to make them more universal / accessible to all cla
 ### Sockets
 Socket counts on lower level items have been nudged up to the maximum of that class. This allows lower level items to qualify for the same runewords that higher level items of the same class can. For instance, all necro wands can have up to 2 sockets whereas previously some lower level wands could only have 1.
 
+Socket spawning has also been adjusted to allow maximum sockets to spawn regardless of level. Previously, for most item classes, there were 3 tiers of levels (1, 25, 40) that controlled the maximum number of spawnable sockets. This mod changes tier 1 and 25 to have the same spawnable sockets as tier 40.
+
 #### Wands
 Wands have a maximum of 2 sockets. The following wands were adjusted:
 
