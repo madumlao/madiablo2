@@ -87,6 +87,16 @@ Runewords are not only hard to acquire, but many of them are limited to class-sp
 
 Runewords have been adjusted to make them more universal / accessible to all classes.
 
+### Sockets
+Socket counts on lower level items have been nudged up to the maximum of that class. This allows lower level items to qualify for the same runewords that higher level items of the same class can. For instance, all necro wands can have up to 2 sockets whereas previously some lower level wands could only have 1.
+
+#### Wands
+Wands have a maximum of 2 sockets. The following wands were adjusted:
+
+- Wand: from 1 to 2 sockets
+- Yew Wand: from 1 to 2 sockets
+- Burnt Wand: from 1 to 2 sockets
+
 ### Steel
 Steel was originally only meant for Swords, Axes, and Maces. It now applies to all melee weapons.
 
