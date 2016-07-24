@@ -47,6 +47,11 @@ Strength does not affect wand damage. This discourages other characters from buy
 
 Globes no longer spawn with mana boost increases. These have been replaced with the attack range modifier.
 
+### Sorceress Staves
+Just as with Necro wands, Staves are meant to be used magically, as opposed to physically, only that they deal dramatically more damage than wands. Staff range ahas been increased to 28 (further than wands), with damage being almost doubled, however, staff damage is unaffected by strength. Staves spawn with a combination of the polearm defense automods and the wand dmg/level automods.
+
+This makes spells such as Enchant Weapon (fire magic) dramatically more  useful.
+
 ### Polearms
 All polearms, long spears, and staves have been given automods that increase defense. Traditionally, such weapons have often been used defensively, with the body of the staff being used for deflecting attacks. This is reflected in the defense increase with using a polearm, although a shield will still give better defense and additionally, a chance to block.
 
