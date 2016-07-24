@@ -38,7 +38,7 @@ Daggers will now spawn with necro autoskills, to give incentive to use "poison d
 ### Necro Scythes
 A Necromancer wields a scythe much like a Sorceress her staff - more than just a physical weapon, the wooden handle is a channel for magical energy. The scythe is a two handed weapon with + skills and higher damage than the caster's one-handed weapon, the dagger. Unlike Staves, Scythes are still physical weapons which are affected by strength.
 
-Scythes have been made into a subtype of both polearms and rods, and thus are eligible for most weapon runewords. Scythes will now spawn with necro autoskills. Scythes may now also spawn with +skilltabs for necromancers.
+Scythes have been made into a subtype of both polearms and rods, and thus are eligible for most weapon runewords. At the same time, Scythes also spawn with the staff automods that increase damage / level and attack rating. Scythes will now spawn with necro autoskills. Scythes may now also spawn with +skilltabs for necromancers.
 
 ### Necro Wands and Sorceress Globes
 Wands are meant to be used magically, as opposed to physically. Thus Necromancers and Sorceresses can inflict pain using a wand from afar - wand and globe range has been increased to 20 - and globe damage has been increased dramatically. This allows their attacks to hit further, possibly from behind meat shields.
