@@ -82,6 +82,17 @@ Wand, staff, and scepter prices are completely ridiculous for single player, eas
 ### Rings and Amulets
 Rings and Amulets have huge fixed prices when gambling. This price was reduced to 1/5.
 
+## Runewords
+Runewords are not only hard to acquire, but many of them are limited to class-specific equipment, which is a pity, since there are large level jumps in between.
+
+Runewords have been adjusted to make them more universal / accessible to all classes.
+
+### Steel
+Steel was originally only meant for Swords, Axes, and Maces. It now applies to all melee weapons.
+
+### Holy Thunder
+Holy Thunder originally only applied to Paladin Scepters. It can now be used on any blunt weapon.
+
 
 # Rebalancing
 ## Amazon
