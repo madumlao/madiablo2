@@ -191,7 +191,11 @@ But wait, there's more. It takes too many skill points in the offensive auras to
 
 TODO: add synergies to vengeance based on holy auras
 
+## Sorceress
+### Masteries
+The Mastery skills - fire, lightning, and cold, are not made equal. Fire specifically has the smallest damage boost of all, and lightning has the highest. However, both of them pale in comparison to cold mastery, because it also raises damage - but by lowering enemy resistance to cold. This means that high level ice sorcs can still kill Cold Immunes, unlike Lightning and Fire sorcs, which still need to alternate elements.
 
+In this mod, all elemental masteries lower the resists of the related elements by the same level that lightning mastery increases damage.
 
 
 # Miscellaneous
