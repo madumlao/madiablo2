@@ -143,6 +143,15 @@ Poison Necromages used to a do a ridiculous "1 dmg every 10 seconds" crap, and l
 
 Poison Necromage has been updated to be comparable to other necromages. It now does 4.875 damage per second for 1 second, compared to cold (1-4), fire (2-6), lightning (1-7). Higher levels increase the damage by about 1.5 per second, but also increases the poison duration by 1/5 of a second each, compared to the other elements which increase average damage by 2, or cold by 1. This makes poison _slightly_ stronger than the other elements, but it takes slightly longer to deal its damage.
 
+### Golems
+Golems are also often said to be underpowered. This mod makes some changes to golem abilities to make them more useful.
+
+One is the ability to summon multiple golems. Even with synergies, Necromancers in the original game are encouraged just to sink points into one golem since they can only use one. This has been changed. Golems will be placed into different summon types so that you can summon multiple golems at a time.
+
+You can summon 1 clay golem, plus an additional clay golem for every 4 points into any golem skills: Clay Golem, Blood Golem, Iron Golem, Fire Golem, and Golem Mastery. At minimum, this means that by the time you get to Iron Golem you can summon 2 clay golems.
+
+TODO: update clay golem skill description to count number
+
 ### Poison Dagger
 Poison Dagger is almost universally recognized to be an underwhelming skill, in part because daggers are underwhelming. In Blizzard's "Heroes of the Storm", however, the Diablo2 necromancer is represented as a melee specialist. Thus, according to canon, the necro's melee game should be dramatically better. Poison dagger has been made to reflect this.
 

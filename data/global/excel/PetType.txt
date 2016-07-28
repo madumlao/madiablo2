@@ -19,3 +19,7 @@ shadowwarrior	16		0	1		1	1	1	UiShadowUI	1	1	shadowassassin									0
 assassintrap	17		0		1																0
 pettrap	18		0		1																0
 hydra	19		0		1																0
+irongolem	20		0	1		1	1	1	StrUI0	1	3	earthgolumicon	290	bloodgolumicon	291	metalgolumicon	292	firegolumicon			0
+claygolem	21		0	1		1	1	1	StrUI0	1	3	earthgolumicon	290	bloodgolumicon	291	metalgolumicon	292	firegolumicon			0
+bloodgolem	22		0	1		1	1	1	StrUI0	1	3	earthgolumicon	290	bloodgolumicon	291	metalgolumicon	292	firegolumicon			0
+firegolem	23		0	1		1	1	1	StrUI0	1	3	earthgolumicon	290	bloodgolumicon	291	metalgolumicon	292	firegolumicon			0
