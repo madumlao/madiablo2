@@ -5,8 +5,13 @@ Amazons
 - pierce and critical strike stack and give other bonuses
 - increase spear speed
 - increase spear range
-- increase jab speed
-- can leap or leap attack
+- add spear blocking
+- replace jab with "lunge"
+  - server-side is a short-ranged "leap attack"
+  - uses jab animation
+  - used for moving in and out of melee
+- replace impale with charge attack
+- add a "dragoon dive" - long range leap
 
 Assassins
 - can summon multiple bunshins
