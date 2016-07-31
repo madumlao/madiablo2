@@ -152,8 +152,6 @@ You can summon 1 clay golem, plus an additional clay golem for every 4 points in
 
 You can summon 1 blood golem, plus an additional blood golem for every 6 points in any of the following skills: Blood Golem, Raise Skeleton, Raise Skeleton Mage, Revive. This would give you roughly 1 blood golem for every 3-6 summoned undead. For balancing purposes, blood golems need a corpse to be summoned - you can't just spam act bosses with blood golems ad infinitum.
 
-TODO: update clay golem skill description to count number
-
 ### Poison Dagger
 Poison Dagger is almost universally recognized to be an underwhelming skill, in part because daggers are underwhelming. In Blizzard's "Heroes of the Storm", however, the Diablo2 necromancer is represented as a melee specialist. Thus, according to canon, the necro's melee game should be dramatically better. Poison dagger has been made to reflect this.
 
