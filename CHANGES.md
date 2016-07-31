@@ -207,6 +207,12 @@ The Mastery skills - fire, lightning, and cold, are not made equal. Fire specifi
 In this mod, all elemental masteries lower the resists of the related elements by the same level that lightning mastery increases damage.
 
 
+## Bosses
+Since the game has been made easier, the player will want to spend all those skills / items on something more epic. Thus, all unique bosses have tripled hit points and experience, with the following caveats:
+
+- some bosses, like Nihlathak and the Summoner, are literally so weak (hp < 200) that players will sometimes not even notice them.  Their hit points and experience have been multiplied by 8 rather than 3.
+- in higher level difficulties, hitpoints of some monsters have actually been reduced. Not here. Bosses whose hp is lower in higher difficulties have been upgraded so that their minimum hp is the next lowest difficulty.
+
 # Miscellaneous
 ## Shrines
 Shrines make the game easier to fly through, but they last too short. All shrine durations (except the experience shrine) have been increased by 5 times, whereas their reset times were all set to 1 minute.
