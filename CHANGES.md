@@ -150,7 +150,7 @@ One is the ability to summon multiple golems. Even with synergies, Necromancers 
 
 You can summon 1 clay golem, plus an additional clay golem for every 4 points into any golem skills: Clay Golem, Blood Golem, Iron Golem, Fire Golem, and Golem Mastery. At minimum, this means that by the time you get to Iron Golem you can summon 2 clay golems.
 
-You can summon 1 blood golem, plus an additional blood golem for every 6 points in any of the following skills: Blood Golem, Raise Skeleton, Raise Skeleton Mage, Revive. This would give you roughly 1 blood golem for every 3-6 summoned undead.
+You can summon 1 blood golem, plus an additional blood golem for every 6 points in any of the following skills: Blood Golem, Raise Skeleton, Raise Skeleton Mage, Revive. This would give you roughly 1 blood golem for every 3-6 summoned undead. For balancing purposes, blood golems need a corpse to be summoned - you can't just spam act bosses with blood golems ad infinitum.
 
 TODO: update clay golem skill description to count number
 

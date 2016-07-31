@@ -17,7 +17,6 @@ Assassins
 - can summon multiple bunshins
 
 Necromancers
-- blood golem requires corpse dependent on number of skeletons
 - bone spirit synergizes with skeletons / skeleton mastery
 - blood golem does poison damage, synergizes with poison explosion
 - increased curse radius
