@@ -19,7 +19,6 @@ Assassins
 Necromancers
 - bone spirit synergizes with skeletons / skeleton mastery
 - blood golem does poison damage, synergizes with poison explosion
-- golem count synergy should use blvl rather than lvl
 - skeletons and skeleton mages should use the same total count
 - increased curse radius
 - bone shield counts as necro head
