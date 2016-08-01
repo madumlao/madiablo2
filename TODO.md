@@ -3,6 +3,9 @@ Amazons
 - dopplezon can attack
 - pierce and critical strike stack and give other bonuses
 - add spear blocking
+- add "spear mastery" skill
+- increase usefulness of critical hit
+- add pierce resistances
 - replace jab with "lunge"
   - server-side is a short-ranged "leap attack"
   - uses jab animation
