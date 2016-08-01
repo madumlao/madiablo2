@@ -32,6 +32,9 @@ Here the probabilities have been adjusted to saner levels. The higher level rune
 Superunique monsters (such as Act bosses, quest bosses) no longer drop magic items. Instead they only drop Rare or higher.
 
 ## Weapons
+### Spears
+One of the problems with playing a spearazon is the ridiculously slow attack speed of the higher end spears. Spear speed has been increased so that the lowest spear speed is "fast". Spear range has also been increased by 1 point.
+
 ### Necro Daggers
 Daggers will now spawn with necro autoskills, to give incentive to use "poison dagger" on daggers. Daggers may now also spawn with +skilltabs for necromancers.
 
