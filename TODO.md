@@ -1,7 +1,6 @@
 Amazons
 - can summon a bow Valkyrie and a Spear Valkyrie
 - dopplezon can attack
-- dodge, evade, avoid all stack and give other bonuses
 - pierce and critical strike stack and give other bonuses
 - increase spear speed
 - increase spear range

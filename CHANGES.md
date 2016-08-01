@@ -115,6 +115,11 @@ Holy Thunder originally only applied to Paladin Scepters. It can now be used on 
 
 # Rebalancing
 ## Amazon
+### Dodge, Evade, and avoid
+Dodge, evade, and avoid are all useful skills. However, they all have the same purpose - decreasing chance to get hit, and dividing them into 3 different skills prevents Amazons from putting their skill points into their real specialization.
+
+Dodge, evade, and avoid are now all rolled into the same level 1 skill, with an inreased starting point of 15% and max of 85%. This means that at higher levels, Amazons have a dramatically smaller chance of getting hit by normal attacks.
+
 ### Poison Javelin / Plague Javelin
 Poison and Plague Javelin are highly similar to each other. Thus, players will tend to only use the one that deals the most damage.
 
