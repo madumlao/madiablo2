@@ -197,6 +197,9 @@ More interestingly, I removed the "Next hit timer" flag on teeth, which prevents
 
 Teeth range and speed also been increased by half, allowing it to hit further.
 
+### Bone Spear / Bone Spirit
+Bone spear and Bone spirit damge synergies with other poison skills have been raised to 15%.
+
 ## Paladin
 ### Offensive Elemental Auras
 The offensive elemental auras do 2 things: splash damage, and attack damage.
