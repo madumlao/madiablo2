@@ -178,13 +178,9 @@ Poison dagger can now be used with swords (no different than daggers) and polear
 
 TODO: update the name and description to "Poison blade".
 
-TODO: necros can dual-wield scythe and dagger.
-
 Poison dagger mana cost reduced by half (from 3 to 1.5). Since poison dagger is a "direct combat spell", damage has been increased and duration decreased. This makes poison dagger dramatically stronger.
 
-At level 1, poison dagger now does 9-18 poison damage per second over 1 second (up from 3.5-7.5 per second per 2 seconds). At level 2, 12-21 per second, at level 3, 15-25 and so on. At the same time, poison duration increases by .2 seconds per level, which makes the damage progression increase quickly. Actually, it now uses the same damage calculations of poison explosion, only that the poison duration is shorter (as PD is intended to be inflicted multiple times on the same enemy).
-
-Note that even though the bonus appear huge for elemental attacks, this should still be smaller than elemental damage bonuses on most fighter classes, because fighter classes do instantaneous damage whereas poison goes through diablo's complicated poison stacking algorithm. In other words, 10 hits from 1-50 lightning damage will do an average of 255 damage. 10 hits from 1-50 poison damage over 2 seconds should do 255 poison damage, however, if stacked with different durations of poison may do more or less than the average damage.
+At level 1, poison dagger now does 9-18 poison damage per second over 1 second (up from 3.5-7.5 per second per 2 seconds). At level 2, 14-23 per second, at level 3, 18-28 and so on. At the same time, poison duration increases by .2 seconds per level, which makes the damage progression increase exponentially.
 
 ### Teeth
 Originally, teeth was a waste of skill points. It doesn't have to be that way.
