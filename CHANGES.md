@@ -182,6 +182,11 @@ Poison dagger mana cost reduced by half (from 3 to 1.5). Since poison dagger is 
 
 At level 1, poison dagger now does 9-18 poison damage per second over 1 second (up from 3.5-7.5 per second per 2 seconds). At level 2, 14-23 per second, at level 3, 18-28 and so on. At the same time, poison duration increases by .2 seconds per level, which makes the damage progression increase exponentially.
 
+### Bone Armor
+Thanks to Bone Wall and Bone Prison providing synergies, Bone Armor is now a waste of skill points - you get more defense from adding to bone wall or bone prison than you do from adding to bone armor. This is fixed in this mod.
+
+Points in Bone Armor add 20 to bone armor absorption. They also give a minor "attacker takes damage" equal to 2x the level of bone armor while the armor is active.
+
 ### Teeth
 Originally, teeth was a waste of skill points. It doesn't have to be that way.
 
