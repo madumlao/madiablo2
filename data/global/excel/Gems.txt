@@ -64,7 +64,7 @@ Vex Rune	Vex	18	r26	1	manasteal		7	7									res-fire-max		5	5									res-fire-
 Ohm Rune	Ohm	18	r27	1	dmg%		50	50									res-cold-max		5	5									res-cold-max		5	5								0
 Lo Rune	Lo	18	r28	1	deadly		20	20									res-ltng-max		5	5									res-ltng-max		5	5								0
 Sur Rune	Sur	18	r29	1	stupidity		1	1									mana%		5	5									mana		50	50								0
-Ber Rune	Ber	18	r30	1	crush		20	20									red-dmg%		8	8									red-dmg%		8	8								0
+Ber Rune	Ber	18	r30	1	dmg%		80	80									red-dmg%		8	8									red-dmg%		8	8								0
 Jah Rune	Jah	18	r31	1	ignore-ac		1	1									hp%		5	5									hp		50	50								0
 Cham Rune	Cham	18	r32	1	freeze		3	3									nofreeze		1	1									nofreeze		1	1								0
 Zod Rune	Zod	18	r33	1	indestruct		1	1									indestruct		1	1									indestruct		1	1								0

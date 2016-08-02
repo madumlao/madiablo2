@@ -31,6 +31,12 @@ Here the probabilities have been adjusted to saner levels. The higher level rune
 ### Superuniques
 Superunique monsters (such as Act bosses, quest bosses) no longer drop magic items. Instead they only drop Rare or higher.
 
+## Magic Affixes
+### Crushing Blow
+Crushing blow is ridiculously overpowered, allowing a character to take down high-level Ubers in dramatically less hits than would be done otherwise. Some circles even consider Crushing Blow to be "required" at higher levels against the Uber bosses. This is a mistake. If the higher levels are unplayable without crushing blow, the solution should be to make crushing blow unnecessary (by strengthening all other skills).
+
+Crushing blow has been removed as a spawnable bonus on all items and replaced with doubled dmg%. If the game is still unplayable at higher levels without it, all characters should be curve upwards.
+
 ## Weapons
 ### Spears
 One of the problems with playing a spearazon is the ridiculously slow attack speed of the higher end spears. Spear speed has been increased so that the lowest spear speed is "fast". Spear range has also been increased by 1 point.
