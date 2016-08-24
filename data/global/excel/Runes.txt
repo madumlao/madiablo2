@@ -99,7 +99,7 @@ Runeword52	Heaven's Will																																															0
 Runeword53	Holy Tears																																															0
 Runeword57	Humility																																															0
 Runeword58	Hunger																																															0
-Runeword59	Ice	1	1	miss									AmnShaelJahLo	r11	r13	r31	r28			dmg%		140	210	aura	Holy Freeze	18	18	extra-cold		25	30	hit-skill	Frost Nova	25	22	levelup-skill	Blizzard	100	40	pierce-cold		20	20	gold%/lvl	25			0
+Runeword59	Ice	1	1	weap	glov								AmnShaelJahLo	r11	r13	r31	r28			dmg%		140	210	aura	Holy Freeze	18	18	extra-cold		25	30	hit-skill	Frost Nova	25	22	levelup-skill	Blizzard	100	40	pierce-cold		20	20	gold%/lvl	25			0
 Runeword60	Infinity	1	1	pole									BerMalBerIst	r30	r23	r30	r24			dmg%		255	325	move3		35	35	vit/lvl	4			aura	Conviction	12	12	kill-skill	Chain Lightning	50	20	pierce-ltng		45	55	charged	Cyclone Armor	30	21	0
 Runeword61	Innocence																																															0
 Runeword62	Insight	1	1	pole	staf								RalTirTalSol	r08	r03	r07	r12			dmg%		200	260	att%		180	250	mag%		23	23	oskill	Critical Strike	1	6	cast2		35	35	aura	Meditation	12	17	all-stats		5	5	0
