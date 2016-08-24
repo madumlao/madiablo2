@@ -118,7 +118,7 @@ Runeword85	Morning Dew																																															0
 Runeword86	Mystery																																															0
 Runeword87	Myth	1		tors									HelAmnNef	r15	r11	r04				hit-skill	Taunt	10	1	gethit-skill	Howl	3	1	bar		2	2	regen		10	10													0
 Runeword95	Patience																																															0
-Runeword97	Pattern			h2h										r07	r09	r03				att%		10	10	dmg%		40	80	dmg-fire		12	32	res-all		15	15	str		6	6	dex		6	6	block2		30	30	0
+Runeword97	Pattern	1		h2h	glov								TalOrtTir	r07	r09	r03				att%		10	10	dmg%		40	80	dmg-fire		12	32	res-all		15	15	str		6	6	dex		6	6	block2		30	30	0
 Runeword98	Peace	1		tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valkyrie	2	15	gethit-skill	Slow Missiles	4	5	ama		2	2	oskill	Critical Strike	2	2													0
 Runeword100	Penitence																																															0
 Runeword101	Peril																																															0
