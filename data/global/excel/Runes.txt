@@ -62,7 +62,7 @@ Runeword91	Oath	1	1	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		2
 Runeword92	Obedience	1	1	pole									HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	dmg%		80	80	kill-skill	enchant	30	21	pierce-fire		25	25	ac		200	300	balance3		40	40	res-all		20	30	0
 Runeword93	Oblivion																																															0
 Runeword94	Obsession																																															0
-Runeword49	Harmony	1	1	miss									TirIthSolKo	r03	r06	r12	r18			dmg%		200	275	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
+Runeword49	Harmony	1	1	weap	glov								TirIthSolKo	r03	r06	r12	r18			dmg%		200	275	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
 Runeword50	Hatred																																															0
 Runeword40	Flickering Flame																																															0
 Runeword41	Fortitude	1	1	weap	tors								ElSolDolLo	r01	r12	r14	r28			ac%		200	200	dmg%		300	300	cast3		25	25	gethit-skill	Chilling Armor	20	15	dmg-to-mana		12	12	hp/lvl		8	12	res-all		25	30	0
