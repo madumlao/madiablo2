@@ -129,7 +129,7 @@ Runeword105	Pillar of Faith																																															0
 Runeword106	Plague	1		weap	glov								ChamFalUm	r32	r19	r22				dmg-demon		260	380	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	25	15	pierce-pois		23	23	deadly/lvl	3			aura	Cleansing	13	17	allskills		1	2	0
 Runeword107	Praise																																															0
 Runeword108	Prayer																																															0
-Runeword109	Pride	1	1	pole									ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8			dmg-ltng		50	280	att%		260	300	aura	Concentration	16	20	gethit-skill	Fire Wall	25	17	regen		8	8	gold%/lvl	15			0
+Runeword109	Pride	1	1	pole	miss								ChamSurIoLo	r32	r29	r16	r28			dmg-dem/lvl	8			dmg-ltng		50	280	att%		260	300	aura	Concentration	16	20	gethit-skill	Fire Wall	25	17	regen		8	8	gold%/lvl	15			0
 Runeword110	Principle	1		tors									RalGulEld	r08	r25	r02				hit-skill	Holy Bolt	100	5	pal		2	2	hp		100	150	dmg-undead		50	50													0
 Runeword111	Prowess in Battle																																															0
 Runeword112	Prudence	1		tors	belt									r23	r03					ac%		140	170	red-mag		10	10	red-dmg		3	3	res-all		25	35	balance2		25	25	rep-dur	25			light		1	1	0
