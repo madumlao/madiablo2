@@ -32,7 +32,7 @@ Club	club	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
 Sword	swor	mele		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
 Hammer	hamm	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
 Knife	knif	mele		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	3	0	3	nec	0		0							weap	0
-Spear	spea	mele		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
+Spear	spea	mele	pole	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
 Polearm	pole	mele		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
 Crossbow	xbow	miss		1	1	rarm	larm	xboq		0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
 Mace	mace	blun		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	6	6	6	0	3		0		0							weap	0
