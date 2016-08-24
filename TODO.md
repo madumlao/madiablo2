@@ -32,3 +32,6 @@ Paladins
 - increased vengeance strength
 - vengeance synergizes with elemental auras
 - increased aura range
+
+General
+- add runewords to gloves and boots
