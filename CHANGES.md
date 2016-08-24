@@ -103,6 +103,17 @@ Socket counts on lower level items have been nudged up to the maximum of that cl
 
 Socket spawning has also been adjusted to allow maximum sockets to spawn regardless of level. Previously, for most item classes, there were 3 tiers of levels (1, 25, 40) that controlled the maximum number of spawnable sockets. This mod changes tier 1 and 25 to have the same spawnable sockets as tier 40.
 
+### Gloves
+Gloves are now socketable. They can contain up to 4 sockets and take weapon bonuses.
+
+### Belts
+Belts are now socketable. They can take up to 2 sockets and take armor bonuses.
+
+All 2-socket armor/helm runewords now also apply to belts.
+
+### Boots
+Boots are now socketable. They can take up to 4 sockets and take shield bonuses.
+
 #### Wands
 Wands have a maximum of 2 sockets. The following wands were adjusted:
 
