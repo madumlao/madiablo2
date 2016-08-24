@@ -166,5 +166,5 @@ Runeword99	Winter	1	1	swor	mace								LemKoElEld	r20	r18	r01	r02			dmg-demon		2
 Runeword165	Wisdom			shld	staf	wand																																										0
 Runeword166	Woe			weap	miss																																											0
 Runeword167	Wonder			wand										r04	r12	r24																																0
-Runeword168	Wrath	1	1	miss									PulLumBerMal	r21	r17	r30	r23			dmg-demon		300	300	dmg-undead		250	300	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	decrepify	30	1	nofreeze		1	1	0
+Runeword168	Wrath	1	1	weap	glov								PulLumBerMal	r21	r17	r30	r23			dmg-demon		300	300	dmg-undead		250	300	dmg-ltng		41	240	dmg-mag		85	120	hit-skill	Life Tap	5	10	hit-skill	decrepify	30	1	nofreeze		1	1	0
 Runeword169	Youth																																															0
