@@ -92,7 +92,7 @@ Runeword27	Dragon	1	1	tors	shld								SurLoSol	r29	r28	r12				ac		360	360	ac-mi
 Runeword28	Dread																																															0
 Runeword29	Dream	1	1	helm	shld								IoJahPul	r16	r31	r21				ac		150	220	gethit-skill	Confuse	10	15	mana/lvl	5			res-all		5	20	balance3		20	30	aura	Holy Shock	15	15	mag%		12	25	0
 Runeword56	Dweomer																																															0
-Runeword31	Edge	1	1	miss									TirTalAmn	r03	r07	r11				dmg-demon		320	380	dmg-undead		280	280	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		5	10	cheap		15	15	0
+Runeword31	Edge	1	1	weap	glov								TirTalAmn	r03	r07	r11				dmg-demon		320	380	dmg-undead		280	280	swing2		35	35	noheal		1	1	aura	Thorns	15	15	all-stats		5	10	cheap		15	15	0
 Runeword34	Enlightenment	1		tors									PulRalSur	r21	r08	r12				hit-skill	Fire Ball	5	15	gethit-skill	Blaze	5	15	sor		2	2	oskill	Warmth	1	1													0
 Runeword35	Envy																																															0
 Runeword52	Heaven's Will																																															0
