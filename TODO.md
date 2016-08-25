@@ -1,3 +1,6 @@
+General gameplay
+- add runewords to gloves and boots
+
 Amazons
 - can summon a bow Valkyrie and a Spear Valkyrie
 - dopplezon can attack
@@ -32,6 +35,3 @@ Paladins
 - increased vengeance strength
 - vengeance synergizes with elemental auras
 - increased aura range
-
-General
-- add runewords to gloves and boots
