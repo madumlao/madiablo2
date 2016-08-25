@@ -160,7 +160,7 @@ Runeword158	War																																															0
 Runeword159	Water																																															0
 Runeword161	Whisper																																															0
 Runeword47	Widowmaker	1	1	swor	axe	pole							EthTirLoMalRal	r05	r03	r28	r23	r08		dmg-dem/lvl	15			dmg		340	400	swing3		30	40	hit-skill	Venom	35	15	pierce-pois		20	25	ignore-ac		1	1	heal-kill		10	15	0
-Runeword163	Wind	1		weap	glov								SurEl	r29	r01					dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	245	10	9	charged	240	127	13	balance2		15	15	0
+Runeword163	Wind	1		weap	glov	miss							SurEl	r29	r01					dmg%		120	160	swing2		40	40	move2		20	20	reduce-ac		50	50	hit-skill	245	10	9	charged	240	127	13	balance2		15	15	0
 Runeword164	Wings of Hope																																															0
 Runeword99	Winter	1	1	swor	mace								LemKoElEld	r20	r18	r01	r02			dmg-demon		220	350	dmg-undead		280	300	dmg-cold		100	220	pierce-cold		24	24	hit-skill	Ice Blast	18	20	hit-skill	Frozen Orb	15	13	nofreeze		1	1	0
 Runeword165	Wisdom			shld	staf	wand																																										0
