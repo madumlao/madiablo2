@@ -2,7 +2,7 @@ Name	Rune Name	complete	server	itype1	itype2	itype3	itype4	itype5	itype6	etype1	
 Runeword1	Ancient's Pledge	1		shld										r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
 Runeword6	Black	1		club	hamm	mace								r10	r16	r04				dmg%		80	40	dmg%		120	120	swing2		15	15	red-mag		2	2	att		200	200	charged	74	12	4					0
 Runeword44	Fury	1		mele										r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
-Runeword54	Holy Thunder	1		blun										r05	r08	r09	r07			dmg%		60	60	dmg-ltng		20	60	dmg-max		10	10	res-ltng		60	60	res-ltng-max		5	5	skill	118	3	3	charged	53	60	7	0
+Runeword54	Holy Thunder	1		weap	glov								EthRalOrtTal	r05	r08	r09	r07			dmg%		60	60	dmg-ltng		20	60	dmg-max		10	10	res-ltng		60	60	res-ltng-max		5	5	skill	118	3	3	charged	53	60	7	0
 Runeword55	Honor	1		mele										r11	r01	r06	r03	r12		dmg%		160	160	regen		10	10	allskills		1	1	att		200	200	deadly		25	25	str		10	10					0
 Runeword65	King's Grace	1		swor	scep									r11	r08	r10				dmg%		100	100	att		150	150	dmg-demon		100	100	dmg-undead		50	50	att-demon		100	100	att-undead		100	100					0
 Runeword72	Leaf	1		blun										r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	oskill	41	3	3	oskill	36	3	3	oskill	37	3	3					0
