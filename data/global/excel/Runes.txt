@@ -1,26 +1,26 @@
 Name	Rune Name	complete	server	itype1	itype2	itype3	itype4	itype5	itype6	etype1	etype2	etype3	*runes	Rune1	Rune2	Rune3	Rune4	Rune5	Rune6	T1Code1	T1Param1	T1Min1	T1Max1	T1Code2	T1Param2	T1Min2	T1Max2	T1Code3	T1Param3	T1Min3	T1Max3	T1Code4	T1Param4	T1Min4	T1Max4	T1Code5	T1Param5	T1Min5	T1Max5	T1Code6	T1Param6	T1Min6	T1Max6	T1Code7	T1Param7	T1Min7	T1Max7	eol
-Runeword1	Ancient's Pledge	1		shld										r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
-Runeword6	Black	1		club	hamm	mace								r10	r16	r04				dmg%		80	40	dmg%		120	120	swing2		15	15	red-mag		2	2	att		200	200	charged	74	12	4					0
-Runeword44	Fury	1		mele										r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
+Runeword1	Ancient's Pledge	1		shld									RalOrtTal	r08	r09	r07				res-cold		30	30	res-all		13	13	ac%		50	50	dmg-to-mana		10	10													0
+Runeword6	Black	1		club	hamm	mace							ThulIoNef	r10	r16	r04				dmg%		80	40	dmg%		120	120	swing2		15	15	red-mag		2	2	att		200	200	charged	74	12	4					0
+Runeword44	Fury	1		mele									JahGulEth	r31	r25	r05				dmg%		209	209	swing2		40	40	noheal		1	1	openwounds		66	66	lifesteal		6	6	deadly		33	33	skill	147	5	5	0
 Runeword54	Holy Thunder	1		weap	glov								EthRalOrtTal	r05	r08	r09	r07			dmg%		60	60	dmg-ltng		20	60	dmg-max		10	10	res-ltng		60	60	res-ltng-max		5	5	skill	118	3	3	charged	53	60	7	0
 Runeword55	Honor	1		weap									AmnElIthTirSol	r11	r01	r06	r03	r12		dmg%		160	160	regen		10	10	allskills		1	1	att		200	200	deadly		25	25	str		10	10					0
 Runeword65	King's Grace	1		swor	scep	mace							AmnRalThul	r11	r08	r10				dmg%		100	100	att		150	150	dmg-demon		100	100	dmg-undead		50	50	att-demon		100	100	att-undead		100	100					0
 Runeword72	Leaf	1		blun	pole	glov	miss						TirRal	r03	r08					fireskill		3	3	ac/lvl		16	16	res-cold		33	33	oskill	41	3	3	oskill	36	3	3	oskill	37	3	3					0
-Runeword74	Lionheart	1		tors										r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		20	20	hp		50	50	res-all		30	30					0
-Runeword75	Lore	1		helm	belt									r09	r12					enr		10	10	allskills		1	1	light		2	2	mana-kill		2	2													0
-Runeword81	Malice	1		mele										r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5					0
-Runeword82	Melody	1		miss										r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
+Runeword74	Lionheart	1		tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		20	20	hp		50	50	res-all		30	30					0
+Runeword75	Lore	1		helm	belt								OrtSol	r09	r12					enr		10	10	allskills		1	1	light		2	2	mana-kill		2	2													0
+Runeword81	Malice	1		mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5					0
+Runeword82	Melody	1		miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
 Runeword83	Memory	1		staf	glov	miss							LumIoSolEth	r17	r16	r12	r05			mana%		20	20	red-mag		7	7	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
 Runeword88	Nadir	1		helm	belt	glov	boot						NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5					0
-Runeword116	Radiance	1		helm										r04	r12	r06				light		5	5	enr		10	10	vit		10	10	red-mag		3	3	mana		33	33	ac%		75	75					0
+Runeword116	Radiance	1		helm									NefSolIth	r04	r12	r06				light		5	5	enr		10	10	vit		10	10	red-mag		3	3	mana		33	33	ac%		75	75					0
 Runeword120	Rhyme	1		shld	h2h	glov							ShaelEth	r13	r05					block2		20	20	block		20	20	res-all		25	25	nofreeze		1	1	gold%		50	50	mag%		25	25					0
-Runeword126	Silence	1		weap										r14	r02	r15	r24	r03	r26	manasteal		4	4	stupidity		33	33	dmg%		200	200	swing2		20	20	res-all		75	75	allskills		2	2	balance2		20	20	0
+Runeword126	Silence	1		weap									DolHelEldIstTirVex	r14	r02	r15	r24	r03	r26	manasteal		4	4	stupidity		33	33	dmg%		200	200	swing2		20	20	res-all		75	75	allskills		2	2	balance2		20	20	0
 Runeword128	Smoke	1		tors	belt								NefLum	r04	r17					ac-miss		250	250	ac%		75	75	res-all		50	50	balance2		20	20	light		-1	-1	charged	72	18	6					0
 Runeword133	Stealth	1		tors	belt								TalEth	r07	r05					red-mag		3	3	dex		6	6	stam		15	15	move2		25	25	cast2		25	25	balance2		25	25					0
 Runeword134	Steel	1		weap	glov								TirEl	r03	r01					swing2		25	25	dmg-min		3	3	dmg-max		3	3	openwounds		50	50	dmg%		20	20									0
 Runeword139	Strength	1		mele	glov								AmnTir	r11	r03					str		20	20	dmg%		35	35	vit		10	10	dmg%		50	50													0
-Runeword154	Venom	1		weap										r07	r14	r23				dmg-pois	175	312	312	ignore-ac		1	1	charged	83	27	15	charged	92	11	13	manasteal		7	7									0
-Runeword160	Wealth	1		tors										r20	r18	r03				gold%		250	250	mag%		100	100																					0
+Runeword154	Venom	1		weap									TalDolMal	r07	r14	r23				dmg-pois	175	312	312	ignore-ac		1	1	charged	83	27	15	charged	92	11	13	manasteal		7	7									0
+Runeword160	Wealth	1		tors									LemKoTir	r20	r18	r03				gold%		250	250	mag%		100	100																					0
 Runeword162	White	1		wand	knif	shld							DolIo	r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
 Runeword170	Zephyr	1		miss	pole								OrtEth	r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
 Runeword14	Bound by Duty	1		tors									DolUmBerIst	r14	r22	r30	r24			res-all		50	50	ac%		70	70	dmg-demon		200	200	dmg-undead		100	100	lifesteal		8	8	allskills		2	2	str		20	20	0
