@@ -109,6 +109,8 @@ Socket spawning has also been adjusted to allow maximum sockets to spawn regardl
 ### Gloves
 Gloves are now socketable. They can contain up to 4 sockets and take weapon bonuses.
 
+Select weapon runewords apply to gloves.
+
 ### Belts
 Belts are now socketable. They can take up to 2 sockets and take armor bonuses.
 
@@ -116,6 +118,8 @@ All 2-socket armor/helm runewords now also apply to belts.
 
 ### Boots
 Boots are now socketable. They can take up to 4 sockets and take shield bonuses.
+
+Select armor and shield runewords apply to boots.
 
 #### Wands
 Wands have a maximum of 2 sockets. The following wands were adjusted:
