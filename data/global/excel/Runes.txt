@@ -59,7 +59,7 @@ Runeword141	Temptation																																															0
 Runeword142	Terror																																															0
 Runeword90	Nightfall																																															0
 Runeword91	Oath	1	1	swor	axe	mace							ShaelPulMalLum	r13	r21	r23	r17			dmg%		210	340	swing1		30	30	hit-skill	Bone Spirit	30	20	charged	IronGolem	14	17	charged	Heart of Wolverine	20	16	abs-mag		10	15	indestruct		1	1	0
-Runeword92	Obedience	1	1	pole									HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	dmg%		80	80	kill-skill	enchant	30	21	pierce-fire		25	25	ac		200	300	balance3		40	40	res-all		20	30	0
+Runeword92	Obedience	1	1	pole	miss								HelKoThulEthFal	r15	r18	r10	r05	r19		dmg%		370	370	dmg%		80	80	kill-skill	enchant	30	21	pierce-fire		25	25	ac		200	300	balance3		40	40	res-all		20	30	0
 Runeword93	Oblivion																																															0
 Runeword94	Obsession																																															0
 Runeword49	Harmony	1	1	weap	glov								TirIthSolKo	r03	r06	r12	r18			dmg%		200	275	dmg-elem		55	160	charged	Revive	25	20	aura	Vigor	10	10	oskill	Valkyrie	2	6	regen-mana		20	20	light		2	2	0
