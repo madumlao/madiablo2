@@ -106,7 +106,7 @@ Runeword62	Insight	1	1	pole	blun	miss	glov						RalTirTalSol	r08	r03	r07	r12			d
 Runeword63	Jealousy																																															0
 Runeword64	Judgment																																															0
 Runeword67	Knight's Vigil																																															0
-Runeword69	Last Wish	1	1	swor	hamm	axe							JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	att-skill	Charged Bolt	20	20	hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	dmg%		80	100	mag%/lvl	4			aura	Might	17	17	0
+Runeword69	Last Wish	1	1	swor	hamm	axe	pole						JahMalJahSurJahBer	r31	r23	r31	r29	r31	r30	dmg%		330	375	att-skill	Charged Bolt	20	20	hit-skill	Life Tap	10	18	gethit-skill	Fade	6	11	dmg%		80	100	mag%/lvl	4			aura	Might	17	17	0
 Runeword70	Law																																															0
 Runeword71	Lawbringer	1	1	swor	hamm	scep							AmnLemKo	r11	r20	r18				dmg-cold		130	180	dmg-fire		150	210	aura	Sanctuary	16	18	hit-skill	Decrepify	20	15	ac-miss		200	250	rip		1	1	reduce-ac		50	50	0
 Runeword73	Lightning																																															0
