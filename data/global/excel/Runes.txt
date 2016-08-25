@@ -123,7 +123,7 @@ Runeword98	Peace	1		tors									ShaelThulAmn	r13	r10	r11				hit-skill	Valkyrie	
 Runeword100	Penitence																																															0
 Runeword101	Peril																																															0
 Runeword102	Pestilence																																															0
-Runeword103	Phoenix	1	1	weap	shld								VexVexLoJah	r26	r26	r28	r31			dmg%		350	400	ac-miss		350	400	hit-skill	Firestorm	40	22	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	15	abs-fire		15	21	0
+Runeword103	Phoenix	1	1	weap	shld	glov							VexVexLoJah	r26	r26	r28	r31			dmg%		350	400	ac-miss		350	400	hit-skill	Firestorm	40	22	levelup-skill	Blaze	100	40	pierce-fire		28	28	aura	Redemption	10	15	abs-fire		15	21	0
 Runeword104	Piety																																															0
 Runeword105	Pillar of Faith																																															0
 Runeword106	Plague	1		weap	glov								ChamFalUm	r32	r19	r22				dmg-demon		260	380	gethit-skill	Lower Resist	20	12	hit-skill	Poison Nova	25	15	pierce-pois		23	23	deadly/lvl	3			aura	Cleansing	13	17	allskills		1	2	0
