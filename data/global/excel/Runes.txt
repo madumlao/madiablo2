@@ -21,7 +21,7 @@ Runeword134	Steel	1		weap	glov								TirEl	r03	r01					swing2		25	25	dmg-min		3
 Runeword139	Strength	1		mele	glov								AmnTir	r11	r03					str		20	20	dmg%		35	35	vit		10	10	dmg%		50	50													0
 Runeword154	Venom	1		weap										r07	r14	r23				dmg-pois	175	312	312	ignore-ac		1	1	charged	83	27	15	charged	92	11	13	manasteal		7	7									0
 Runeword160	Wealth	1		tors										r20	r18	r03				gold%		250	250	mag%		100	100																					0
-Runeword162	White	1		wand										r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
+Runeword162	White	1		wand	knif	shld							DolIo	r14	r16					skilltab	7	3	3	red-mag		4	4	cast2		20	20	mana		13	13	skill	68	3	3	skill	84	2	2	skill	69	4	4	0
 Runeword170	Zephyr	1		miss										r09	r05					move2		25	25	swing2		25	25	dmg%		33	33	att		66	66	gethit-skill	240	7	1	ac		25	25					0
 Runeword14	Bound by Duty	1		tors									DolUmBerIst	r14	r22	r30	r24			res-all		50	50	ac%		70	70	dmg-demon		200	200	dmg-undead		100	100	lifesteal		8	8	allskills		2	2	str		20	20	0
 Runeword9	Bramble	1		tors									RalOhmSurEth	r08	r27	r29	r05			balance2		50	50	ac		300	300	aura	Thorns	15	21	heal-kill		13	13	extra-pois		25	50	res-pois		100	100	charged	Spirit of Barbs	33	13	0
