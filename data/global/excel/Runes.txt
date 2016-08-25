@@ -75,7 +75,7 @@ Runeword2	Armageddon																																															0
 Runeword3	Authority																																															0
 Runeword5	Beauty																																															0
 Runeword7	Blood			helm																																												0
-Runeword8	Bone	1		tors									SolUmUm	r12	r22	r22				hit-skill	Bone Spear	15	10	gethit-skill	Bone Armor	15	10	nec		2	2	mana		100	150													0
+Runeword8	Bone	1		tors	head								SolUmUm	r12	r22	r22				hit-skill	Bone Spear	15	10	gethit-skill	Bone Armor	15	10	nec		2	2	mana		100	150													0
 Runeword10	Brand	1	1	weap	glov								JahLoMalGul	r31	r28	r23	r25			dmg%		260	340	dmg-demon		280	330	hit-skill	Bone Spear	100	18	gethit-skill	Amplify Damage	35	14	knock		1	1	noheal		1	1	Hit-skill	Fire Ball	100	15	0
 Runeword12	Broken Promise																																															0
 Runeword15	Chance																																															0
