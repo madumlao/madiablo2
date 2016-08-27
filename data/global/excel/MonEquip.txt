@@ -43,4 +43,10 @@ shadowmaster		0	7ar	rarm	3	7xf	rarm	3	7qr	rarm	3	0
 shadowmaster		0	7cs	larm	3	7tw	larm	3	7qr	larm	3	0
 shadowmaster		0		tors	3							0
 shadowmaster		0		head	3							0
+necroskeleton		15	9sm	rarm	6	9sb	rarm	6	9fc	rarm	6	0
+necroskeleton		12	scm	rarm	6	sbr	rarm	6	flc	rarm	6	0
+necroskeleton		9	scm	rarm	4	sbr	rarm	4	flc	rarm	4	0
+necroskeleton		6	scm	rarm	2	sbr	rarm	2	flc	rarm	2	0
+necroskeleton		3	scm	rarm	1	sbr	rarm	1	flc	rarm	1	0
+necroskeleton		0	ssd	rarm	1							0
 *end*  do not remove												0

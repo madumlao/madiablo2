@@ -175,6 +175,21 @@ Necros had the second slowest attack speed (19 frames) after the Sorceress (20 f
 
 Necro attack speed has been lowered to 17 frames, on par with the Paladin, and their teeth skill now serves as a powerful up close shotgun. Furthermore, their poison dagger skill can now be used with a variety of blades, including the Necromancer's signature Scythe.
 
+### Skeleton Warrior (aka necroskeleton)
+Skeletons now spawn with a random sword, the quality of which depends on their level.
+
+At level 1, they start with a low quality short sword.
+
+At level 3, they move on to a low quality saber-type weapon (scimitar, saber, falchion).
+
+At level 6, they move on to a normal quality saber-type weapon.
+
+At level 9, they spawn with magic weapons.
+
+At level 12, they spawn with rare weapons.
+
+At level 15, they spawn with rare exceptional weapons.
+
 ### Skeleton Mage (aka necromage)
 Poison Necromages used to a do a ridiculous "1 dmg every 10 seconds" crap, and levelling them up increased the duration by a further 10 seconds. This is insane. Basically if you spawn a poison necromage, despawn it immediately and replace it with fire.
 
