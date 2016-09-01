@@ -1,4 +1,26 @@
-# Breath of the Dying
+# Sockets
+Socket counts on lower level items have been nudged up to the maximum of that class. This allows lower level items to qualify for the same runewords that higher level items of the same class can. For instance, all necro wands can have up to 2 sockets whereas previously some lower level wands could only have 1.
+
+Socket spawning has also been adjusted to allow maximum sockets to spawn regardless of level. Previously, for most item classes, there were 3 tiers of levels (1, 25, 40) that controlled the maximum number of spawnable sockets. This mod changes tier 1 and 25 to have the same spawnable sockets as tier 40.
+
+## Gloves
+Gloves are now socketable. They can contain up to 4 sockets and take weapon bonuses.
+
+Select weapon and armor runewords apply to gloves. Gloves can only use runewords with even-numbered runes.
+
+## Belts
+Belts are now socketable. They can take up to 2 sockets and take armor bonuses.
+
+All 2-socket armor/helm runewords now also apply to belts.
+
+## Boots
+Boots are now socketable. They can take up to 4 sockets and take shield bonuses.
+
+Select armor and shield runewords apply to boots. Boots can only use runewords with even-numbered runes.
+
+---
+# Runewords list by Rank
+## Breath of the Dying
 Vex (26) + Hel (15) + El (1) + Eld (2) + Zod (33) + Eth (5)  
 Weapons {6}  
 Clvl Required: 69
@@ -18,7 +40,7 @@ Clvl Required: 69
 - +1 To Light Radius
 - Requirements -20% 
 
-# Pride
+## Pride
 Cham (32) + Sur (29) + Io (16) + Lo (28)  
 Polearms & Missile Weapons {4}  
 Clvl Required: 67
@@ -37,7 +59,7 @@ Polearms and Missile weapons {4}
 - Replenish Life +8
 - (1.875*Clvl)% Extra Gold From Monsters (Based on Character Level)
 
-# Hand of Justice
+## Hand of Justice
 Sur (29) + Cham (32) + Amn (11) + Lo (28)  
 Weapons & Gloves {4}  
 Clvl Required: 67
@@ -54,7 +76,7 @@ Clvl Required: 67
 - Hit Blinds Target
 - Freezes Target +3 
 
-# Eternity
+## Eternity
 Amn (11) + Ber (30) + Ist (24) + Sol (12) + Sur (29)  
 Melee Weapons {5}  
 Clvl Required: 63
@@ -70,7 +92,7 @@ Clvl Required: 63
 - 30% Better Chance Of Getting Magic Items
 - Level 8 Revive (88 Charges) 
 
-# Doom
+## Doom
 Hel (15) + Ohm (27) + Um (22) + Lo (28) + Cham (32)  
 Axes, Hammers, & Polearms {5}  
 Clvl Required: 67
@@ -87,7 +109,7 @@ Clvl Required: 67
 - Freezes Target +3
 - Requirements -20% 
 
-# Last Wish
+## Last Wish
 Jah (31) + Mal (23) + Jah (31) + Sur (29) + Jah (31) + Ber (30)  
 Axes, Hammers, Swords, & Polearms {6}  
 Clvl Required: 65 
@@ -102,7 +124,7 @@ Clvl Required: 65
 - Hit Blinds Target
 - (0.5*Clvl)% Chance of Getting Magic Items (Based on Character Level) 
 
-# Destruction
+## Destruction
 Vex (26) + Lo (28) + Ber (30) + Jah (31) + Ko (18)  
 Polearms & Swords {5}  
 Clvl Required: 65 
@@ -119,7 +141,7 @@ Clvl Required: 65
 - Prevent Monster Heal
 - +10 To Dexterity 
 
-# Enigma
+## Enigma
 Jah (31) + Ith (6) + Ber (30)  
 Armor {3}  
 Clvl Required: 65 
@@ -135,7 +157,7 @@ Clvl Required: 65
 - 15% Damage Taken Goes To Mana
 - (1*Clvl)% Better Chance of Getting Magic Items (Based On Character Level) 
 
-# Phoenix
+## Phoenix
 Vex (26) + Vex (26) + Lo (28) + Jah (31)  
 Weapons, Shields, Gloves, & Boots {4}  
 Clvl Required: 65 
@@ -159,7 +181,7 @@ Shields / Boots:
 - +5% To Maximum Lightning Resist
 - +10% To Maximum Fire Resist 
 
-# Brand
+## Brand
 Jah (31) + Lo (28) + Mal (23) + Gul (25)  
 Weapons & Gloves {4}  
 Clvl Required: 65 
@@ -175,7 +197,7 @@ Clvl Required: 65
 - Prevent Monster Heal
 - Knockback 
 
-# Faith
+## Faith
 Ohm (27) + Jah (31) + Lem (20) + Eld (2)  
 Missile Weapons & Gloves {4}  
 Clvl Required: 65 
@@ -192,7 +214,7 @@ Clvl Required: 65
 - 10% Reanimate As: Returned
 - 75% Extra Gold From Monsters 
 
-# Famine
+## Famine
 Fal (19) + Ohm (27) + Ort (9) + Jah (31)  
 Axes & Hammers {4}  
 Clvl Required: 65 
@@ -208,7 +230,7 @@ Clvl Required: 65
 - Prevent Monster Heal
 - +10 To Strength 
 
-# Fury
+## Fury
 Jah (31) + Gul (25) + Eth (5)  
 Melee Weapons {3}  
 Clvl Required: 65 
@@ -224,7 +246,7 @@ Clvl Required: 65
 - +5 To Frenzy
 - Prevent Monster Heal 
 
-# Dream
+## Dream
 Io (16) + Jah (31) + Pul (21)  
 Headgear & Shields {3}  
 Clvl Required: 65 
@@ -246,7 +268,7 @@ Headgear:
 Shields:
 - +50 To Life 
 
-# Ice
+## Ice
 Amn (11) + Shael (13) + Jah (31) + Lo (28)  
 Weapons & Gloves {4}  
 Clvl Required: 65 
@@ -263,7 +285,7 @@ Clvl Required: 65
 - 20% Deadly Strike
 - (3.125*Clvl)% Extra Gold From Monsters (Based on Character Level) 
 
-# Infinity
+## Infinity
 Ber (30) + Mal (23) + Ber (30) + Ist (24)  
 Polearms, Missile weapons, & Boots {4}  
 Clvl Required: 63 
@@ -278,7 +300,7 @@ Clvl Required: 63
 - 30% Better Chance of Getting Magic Items
 - Level 21 Cyclone Armor (30 Charges) 
 
-# Chains of Honor
+## Chains of Honor
 Dol (14) + Um (22) + Ber (30) + Ist (24)  
 Armor {4}  
 Clvl Required: 63 
@@ -294,7 +316,7 @@ Clvl Required: 63
 - Damage Reduced By 8%
 - 25% Better Chance of Getting Magic Items 
 
-# Beast
+## Beast
 Ber (30) + Tir (3) + Um (22) + Mal (23) + Lum (17)  
 Axes, Scepters, Hammers, & Maces {5}  
 Clvl Required: 63 
@@ -311,7 +333,7 @@ Clvl Required: 63
 - +2 To Mana After Each Kill
 - Level 13 Summon Grizzly (5 Charges) 
 
-# Wrath
+## Wrath
 Pul (21) + Lum (17) + Ber (30) + Mal (23)  
 Weapons & Gloves {4}  
 Clvl Required: 63 
@@ -327,7 +349,7 @@ Clvl Required: 63
 - +10 To Energy
 - Cannot Be Frozen 
 
-# Dragon
+## Dragon
 Sur (29) + Lo (28) + Sol (12)  
 Armor, Shields {3}  
 Clvl Required: 61 
@@ -349,7 +371,7 @@ Armor:
 Shields:
 - +50 To Mana 
 
-# Bramble
+## Bramble
 Ral (8) + Ohm (27) + Sur (29) + Eth (5)  
 Armor & Boots {4}  
 Clvl Required: 61 
@@ -366,7 +388,7 @@ Clvl Required: 61
 - +13 Life After Each Kill
 - Level 13 Spirit of Barbs (33 Charges) 
 
-# Wind
+## Wind
 Sur (29) + El (1)  
 Weapons, Gloves, & Boots {2}  
 Clvl Required: 61 
@@ -382,7 +404,7 @@ Clvl Required: 61
 - +1 To Light Radius
 - Level 13 Twister (127 Charges) 
 
-# Grief
+## Grief
 Eth (5) + Tir (3) + Lo (28) + Mal (23) + Ral (8)  
 Swords, Axes, & Polearms {5}  
 Clvl Required: 59 
@@ -400,7 +422,7 @@ Clvl Required: 59
 - +2 To Mana After Each Kill
 - +10-15 Life After Each Kill (varies) 
 
-# Fortitude
+## Fortitude
 El (1) + Sol (12) + Dol (14) + Lo (28)  
 Weapons & Armor {4}  
 Clvl Required: 59 
@@ -427,7 +449,7 @@ Armor:
 - +5% To Maximum Lightning Resist
 - Damage Reduced By 7 
 
-# Exile
+## Exile
 Vex (26) + Ohm (27) + Ist (24) + Dol (14)  
 Shields {4}  
 Clvl Required: 57 
@@ -444,7 +466,7 @@ Clvl Required: 57
 - 25% Better Chance Of Getting Magic Items
 - Repairs 1 Durability every 4 seconds
 
-# Call to Arms
+## Call to Arms
 Amn (11) + Ral (8) + Mal (23) + Ist (24) + Ohm (27)  
 Weapons {5}  
 Clvl Required: 57 
@@ -461,7 +483,7 @@ Clvl Required: 57
 - Replenish Life +12
 - 30% Better Chance of Getting Magic Items
 
-# Chaos
+## Chaos
 Fal (19) + Ohm (27) + Um (22)  
 Claws {3}  
 Clvl Required: 57 
@@ -476,7 +498,7 @@ Clvl Required: 57
 - +10 To Strength
 - +15 Life After Each Demon Kill
 
-# Death
+## Death
 Hel (15) + El (1) + Vex (26) + Ort (9) + Gul (25)  
 Swords & Axes {5}  
 Clvl Required: 55 
@@ -494,7 +516,7 @@ Clvl Required: 55
 - Level 22 Blood Golem (15 Charges)
 - Requirements -20%
 
-# Silence
+## Silence
 Dol (14) + Eld (2) + Hel (15) + Ist (24) + Tir (3) + Vex (26)  
 Weapons {6}  
 Clvl Required: 55 
@@ -513,7 +535,7 @@ Clvl Required: 55
 - 30% Better Chance of Getting Magic Items
 - Requirements -20%
 
-# Heart of the Oak
+## Heart of the Oak
 Ko (18) + Vex (26) + Pul (21) + Thul (10)  
 Rods, Maces, & Gloves {4}  
 Clvl Required:55 
@@ -531,7 +553,7 @@ Clvl Required:55
 - Level 4 Oak Sage (25 Charges)
 - Level 14 Raven (60 Charges)
 
-# Kingslayer
+## Kingslayer
 Mal (23) + Um (22) + Gul (25) + Fal (19)  
 Swords, Axes, Maces, & Gloves {4}  
 Clvl Required: 53 
@@ -546,7 +568,7 @@ Clvl Required: 53
 - +10 To Strength
 - 40% Extra Gold From Monsters
 
-# Rift
+## Rift
 Hel (15) + Ko (18) + Lem (20) + Gul (25)  
 Polearms, Rods, & Missile weapons {4}  
 Clvl Required: 53 
@@ -563,7 +585,7 @@ Clvl Required: 53
 - Level 15 Iron Maiden (40 Charges)
 - Requirements -20%
 
-# Principle
+## Principle
 Ral (8) + Gul (25) + Eld (2)  
 Armor {3}  
 Clvl Required: 55 
@@ -576,7 +598,7 @@ Clvl Required: 55
 - +5% To Maximum Poison Resist
 - Fire Resist +30%
 
-# Delirium
+## Delirium
 Lem (20) + Ist (24) + Io (16)  
 Headgear {3}  
 Clvl Required: 51 
@@ -592,7 +614,7 @@ Clvl Required: 51
 - 25% Better Chance of Getting Magic Items
 - Level 17 Attract (60 Charges)
 
-# Oath
+## Oath
 Shael (13) + Pul (21) + Mal (23) + Lum (17)  
 Axes, Maces, & Swords {4}  
 Clvl Required: 59 
@@ -609,7 +631,7 @@ Clvl Required: 59
 - Level 16 Heart of Wolverine (20 Charges)
 - Level 17 Iron Golem (14 Charges)
 
-# Sanctuary
+## Sanctuary
 Ko (18) + Ko (18) + Mal (23)  
 Shields {3}  
 Clvl Required: 49 
@@ -624,7 +646,7 @@ Clvl Required: 49
 - Magic Damage Reduced By 7
 - Level 12 Slow Missiles (60 Charges)
 
-# Venom
+## Venom
 Tal (7) + Dol (14) + Mal (23)  
 Weapons {3}  
 Clvl Required: 49 
@@ -637,7 +659,7 @@ Clvl Required: 49
 - Level 13 Poison Nova (11 Charges)
 - Level 15 Poison Explosion (27 Charges)
 
-# Rain
+## Rain
 Ort (9) + Mal (23) + Ith (6)  
 Armor & Druid Headgear {3}  
 Clvl Required: 49 
@@ -650,7 +672,7 @@ Clvl Required: 49
 - Magic Damage Reduced By 7
 - 15% Damage Taken Goes to Mana
 
-# Prudence
+## Prudence
 Mal (23) + Tir (3)  
 Armor, Belts, & Boots {2}  
 Clvl Required: 49 
@@ -664,7 +686,7 @@ Clvl Required: 49
 - +1 To Light Radius
 - Repairs Durability 1 In 4 Seconds
 
-# Bone
+## Bone
 Sol (12) + Um (22) + Um (22)  
 Armor & Preserved heads {3}  
 Clvl Required: 47 
@@ -676,7 +698,7 @@ Clvl Required: 47
 - All Resistances +30
 - Damage Reduced By 7
 
-# Gloom
+## Gloom
 Fal (19)+ Um (22) + Pul (21)  
 Armor {3}  
 Clvl Required: 47 
@@ -690,7 +712,7 @@ Clvl Required: 47
 - 5% Damage Taken Goes To Mana
 - -3 To Light Radius
 
-# Stone
+## Stone
 Shael (13) + Um (22) + Pul (21) + Lum (17)  
 Armor & Boots {4}  
 Clvl Required: 47 
@@ -705,7 +727,7 @@ Clvl Required: 47
 - Level 16 Molten Boulder (80 Charges)
 - Level 16 Clay Golem (16 Charges)
 
-# Duress
+## Duress
 Shael (13) + Um (22) + Thul (10)  
 Armor {3}  
 Clvl Required: 47 
@@ -721,7 +743,7 @@ Clvl Required: 47
 - Fire Resist +15%
 - Poison Resist +15%
 
-# Crescent Moon
+## Crescent Moon
 Shael (13) + Um (22) + Tir (3)  
 Axes, Polearms, & Swords {3}  
 Clvl Required: 47 
@@ -737,7 +759,7 @@ Clvl Required: 47
 - +2 To Mana After Each Kill
 - Level 18 Summon Spirit Wolf (30 Charges)
 
-# Enlightenment
+## Enlightenment
 Pul (21) + Ral (8) + Sol (12)  
 Armor {3}  
 Clvl Required: 45 
@@ -750,7 +772,7 @@ Clvl Required: 45
 - Fire Resist +30%
 - Damage Reduced By 7
 
-# Lawbringer
+## Lawbringer
 Amn (11) + Lem (20) + Ko (18)  
 Hammers, Scepters, & Swords {3}  
 Clvl Required: 43 
@@ -766,7 +788,7 @@ Clvl Required: 43
 - +10 To Dexterity
 - 75% Extra Gold From Monsters
 
-# Wealth
+## Wealth
 Lem (20) + Ko (18) + Tir (3)  
 Armor {3}  
 Clvl Required: 43 
@@ -776,7 +798,7 @@ Clvl Required: 43
 - 300% Extra Gold From Monsters
 - 100% Better Chance of Getting Magic Items
 
-# Voice of Reason
+## Voice of Reason
 Lem (20) + Ko (18) + El (1) + Eld (2)  
 Maces, Swords, & Scepters {4}  
 Clvl Required: 43 
@@ -794,7 +816,7 @@ Clvl Required: 43
 - 75% Extra Gold From Monsters
 - +1 To Light Radius
 
-# Passion
+## Passion
 Dol (14) + Ort (9) + Eld (2) + Lem (20)  
 Weapons & Gloves {4}  
 Clvl Required: 43 
@@ -812,7 +834,7 @@ Clvl Required: 43
 - 75% Extra Gold From Monsters
 - Level 3 Heart of Wolverine (12 Charges)
 
-# Treachery
+## Treachery
 Shael (13) + Thul (10) + Lem (20)  
 Armor {3}  
 Clvl Required: 43 
@@ -825,7 +847,7 @@ Clvl Required: 43
 - Cold Resist +30%
 - 50% Extra Gold From Monsters
 
-# Obedience
+## Obedience
 Hel (15) + Ko (18) + Thul (10) + Eth (5) + Fal (19)  
 Polearms & Missile weapons {5}  
 Clvl Required: 41 
@@ -842,7 +864,7 @@ Clvl Required: 41
 - All Resistances +20-30 (varies)
 - Requirements -20%
 
-# Lionheart
+## Lionheart
 Hel (15) + Lum (17) + Fal (19)  
 Armor {3}  
 Clvl Required: 41 
@@ -856,7 +878,7 @@ Clvl Required: 41
 - All Resistances +30
 - Requirements -15%
 
-# Melody
+## Melody
 Shael (13) + Ko (18) + Nef (4)  
 Missile Weapons {3}  
 Clvl Required: 39 
@@ -871,7 +893,7 @@ Clvl Required: 39
 - Knockback
 - +10 To Dexterity
 
-# Harmony
+## Harmony
 Tir (3) + Ith (6) + Sol (12) + Ko (18)  
 Weapons & Gloves {4}  
 Clvl Required: 39 
@@ -890,7 +912,7 @@ Clvl Required: 39
 - +2 To Light Radius
 - Level 20 Revive (25 Charges)
 
-# Memory
+## Memory
 Lum (17) + Io (16) + Sol (12) + Eth (5)  
 Staves, Gloves, & Missile weapons {4}  
 Clvl Required: 37 
@@ -907,7 +929,7 @@ Clvl Required: 37
 - Increase Maximum Mana 20%
 - Magic Damage Reduced By 7
 
-# Splendor
+## Splendor
 Eth (5) + Lum (17)  
 Shields, Claws, & Gloves {2}  
 Clvl Required: 37 
@@ -922,7 +944,7 @@ Clvl Required: 37
 - 20% Better Chance of Getting Magic Items
 - +3 To Light Radius
 
-# Smoke
+## Smoke
 Nef (4) + Lum (17)  
 Armor, Belts, & Boots {2}  
 Clvl Required: 37 
@@ -935,7 +957,7 @@ Clvl Required: 37
 - -1 to Light Radius
 - Level 6 Weaken (18 charges)
 
-# White
+## White
 Dol (14) + Io (16)  
 Wands, Daggers, Shields {2}  
 Clvl Required: 35 
@@ -950,7 +972,7 @@ Clvl Required: 35
 - +13 to mana
 - Magic Damage Reduced by 4
 
-# Black
+## Black
 Thul (10) + Io (16) + Nef (4)  
 Clubs, Hammers, Maces {3}  
 Clvl Required: 35 
@@ -964,7 +986,7 @@ Clvl Required: 35
 - Magic Damage Reduced By 2
 - Level 4 Corpse Explosion (12 Charges)
 
-# Myth
+## Myth
 Hel (15) + Amn (11) + Nef (4)  
 Armor {3}  
 Clvl Required: 25 
@@ -977,7 +999,7 @@ Clvl Required: 25
 - Attacker Takes Damage of 14
 - Requirements -15%
 
-# Peace
+## Peace
 Shael (13) + Thul (10) + Amn (11)  
 Armor {3}  
 Clvl Required: 29 
@@ -990,7 +1012,7 @@ Clvl Required: 29
 - Cold Resist +30%
 - Attacker Takes Damage of 14
 
-# Rhyme
+## Rhyme
 Shael (13) + Eth (5)  
 Shields, Claws, & Gloves {2}  
 Clvl Required: 29 
@@ -1003,7 +1025,7 @@ Clvl Required: 29
 - 50% Extra Gold from Monsters
 - 25% Better Chance of Getting Magic Items
 
-# Honor
+## Honor
 Amn (11) + El (1) + Ith (6) + Tir (3) + Sol (12)  
 Weapons {5}  
 Clvl Required: 27 
@@ -1020,7 +1042,7 @@ Clvl Required: 27
 - +2 to Mana after each Kill
 - +1 to Light Radius
 
-# Lore
+## Lore
 Ort (9) + Sol (12)  
 Headgear & Belts {2}  
 Clvl Required: 27 
@@ -1032,7 +1054,7 @@ Clvl Required: 27
 - +2 to Mana after each Kill
 - +2 to Light Radius
 
-# Insight
+## Insight
 Ral (8) + Tir (3) + Tal (7) + Sol (12)  
 Polearms, Blunt weapons, Missiles, & Gloves {4}  
 Clvl Required: 27 
@@ -1049,7 +1071,7 @@ Clvl Required: 27
 - +2 To Mana After Each Kill
 - 23% Better Chance of Getting Magic Items
 
-# Radiance
+## Radiance
 Nef (4) + Sol (12) + Ith (6)  
 Headgear {3}  
 Clvl Required: 27 
@@ -1064,7 +1086,7 @@ Clvl Required: 27
 - 15% Damage Taken Goes to Mana
 - +5 to Light Radius
 
-# Spirit
+## Spirit
 Tal (7) + Thul (10) + Ort (9) + Amn (11)  
 Weapons, Shields, & Gloves {4}  
 Clvl Required: 25 
@@ -1090,7 +1112,7 @@ Both:
 - +89-112 To Mana (varies)
 - +3-8 Magic Absorb (varies)
 
-# King's Grace
+## King's Grace
 Amn (11) + Ral (8) + Thul (10)  
 Swords, Scepters, & Maces {3}  
 Clvl Required: 25 
@@ -1105,7 +1127,7 @@ Clvl Required: 25
 - Adds 3-14 Cold damage
 - 7% Life stolen per hit
 
-# Edge
+## Edge
 Tir (3) + Tal (7) + Amn (11)  
 Weapons {3}  
 Clvl Required: 25 
@@ -1121,7 +1143,7 @@ Clvl Required: 25
 - +2 To Mana After Each Kill
 - Reduces All Vendor Prices 15%
 
-# Strength
+## Strength
 Amn (11) + Tir (3)  
 Melee Weapons & Gloves {2}  
 Clvl Required: 25 
@@ -1132,7 +1154,7 @@ Clvl Required: 25
 - +10 to Vitality
 - +2 to Mana after each Kill
 
-# Holy Thunder
+## Holy Thunder
 Eth (5) + Ral (8) + Ort (9) + Tal (7)  
 Weapons & Gloves {4}  
 Clvl Required: 23 
@@ -1148,7 +1170,7 @@ Clvl Required: 23
 - Lightning Resist +60%
 - Level 7 Chain Lightning (60 charges)
 
-# Ancient's Pledge
+## Ancient's Pledge
 Ral (8) + Ort (9) + Tal (7)  
 Shields {3}  
 Clvl Required: 21 
@@ -1160,7 +1182,7 @@ Clvl Required: 21
 - Poison Resist +48%
 - 10% Damage Taken Goes to Mana
 
-# Zephyr
+## Zephyr
 Ort (9) + Eth (5)  
 Missile Weapons, Polearms, & Boots {2}  
 Clvl Required: 21 
@@ -1174,7 +1196,7 @@ Clvl Required: 21
 - Adds 1-50 lightning damage
 - +25 Defense
 
-# Leaf
+## Leaf
 Tir (3) + Ral (8)  
 Blunt weapons, Polearms, Gloves, & Missile weapons {2}  
 Clvl Required: 19 
@@ -1188,7 +1210,7 @@ Clvl Required: 19
 - Cold Resist +33%
 - +2 to Mana after each Kill
 
-# Stealth
+## Stealth
 Tal (7) + Eth (5)  
 Armor, Belts, & Boots {2}  
 Clvl Required: 17 
@@ -1202,7 +1224,7 @@ Clvl Required: 17
 - Poison Resist +30%
 - Magic Damage Reduced by 3
 
-# Malice
+## Malice
 Ith (6) + El (1) + Eth (5)  
 All Melee Weapons {3}  
 Clvl Required: 15 
@@ -1216,7 +1238,7 @@ Clvl Required: 15
 - -100 to Monster Defense Per Hit
 - Drain Life -5
 
-# Nadir
+## Nadir
 Nef (4) + Tir (3)  
 Headgear, Belts, Gloves, & Boots {2}  
 Clvl Required: 13 
@@ -1230,7 +1252,7 @@ Clvl Required: 13
 - -3 to Light Radius
 - Level 13 Cloak of Shadows (9 charges)
 
-# Steel
+## Steel
 Tir (3) + El (1)  
 Weapons & Gloves {2}  
 Clvl Required: 13 

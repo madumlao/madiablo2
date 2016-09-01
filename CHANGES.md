@@ -97,48 +97,7 @@ Wand, staff, and scepter prices are completely ridiculous for single player, eas
 Rings and Amulets have huge fixed prices when gambling. This price was reduced to 1/5.
 
 ## Runewords
-Runewords are not only hard to acquire, but many of them are limited to class-specific equipment, which is a pity, since there are large level jumps in between.
-
-Runewords have been adjusted to make them more universal / accessible to all classes.
-
-### Sockets
-Socket counts on lower level items have been nudged up to the maximum of that class. This allows lower level items to qualify for the same runewords that higher level items of the same class can. For instance, all necro wands can have up to 2 sockets whereas previously some lower level wands could only have 1.
-
-Socket spawning has also been adjusted to allow maximum sockets to spawn regardless of level. Previously, for most item classes, there were 3 tiers of levels (1, 25, 40) that controlled the maximum number of spawnable sockets. This mod changes tier 1 and 25 to have the same spawnable sockets as tier 40.
-
-### Gloves
-Gloves are now socketable. They can contain up to 4 sockets and take weapon bonuses.
-
-Select weapon runewords apply to gloves.
-
-### Belts
-Belts are now socketable. They can take up to 2 sockets and take armor bonuses.
-
-All 2-socket armor/helm runewords now also apply to belts.
-
-### Boots
-Boots are now socketable. They can take up to 4 sockets and take shield bonuses.
-
-Select armor and shield runewords apply to boots.
-
-#### Wands
-Wands have a maximum of 2 sockets. The following wands were adjusted:
-
-- Wand: from 1 to 2 sockets
-- Yew Wand: from 1 to 2 sockets
-- Burnt Wand: from 1 to 2 sockets
-
-### Steel
-Steel was originally only meant for Swords, Axes, and Maces. It now applies to all melee weapons.
-
-### Leaf
-Leaf originally only works on Sorceress Staves. It now applies to all blunt weapons.
-
-Leaf originally gave Sorceress only +3 skills to Warmth, Fire Bolt, and Inferno. It now gives +3 skills to the above regardless of class.
-
-### Holy Thunder
-Holy Thunder originally only applied to Paladin Scepters. It can now be used on any blunt weapon.
-
+Runewords are not only hard to acquire, but many of them are limited to class-specific equipment, which is a pity, since there are large level jumps in between. See [The Runewords list](runewords.md) for details.
 
 # Rebalancing
 ## Amazon
