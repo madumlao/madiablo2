@@ -9,7 +9,7 @@ Runeword72	Leaf	1		blun	pole	glov	miss						TirRal	r03	r08					fireskill		3	3	ac
 Runeword74	Lionheart	1		tors									HelLumFal	r15	r17	r19				str		15	15	vit		20	20	dex		15	15	dmg%		20	20	hp		50	50	res-all		30	30					0
 Runeword75	Lore	1		helm	belt								OrtSol	r09	r12					enr		10	10	allskills		1	1	light		2	2	mana-kill		2	2													0
 Runeword81	Malice	1		mele									IthElEth	r06	r01	r05				openwounds		100	100	dmg-ac		-100	-100	noheal		1	1	dmg%		33	33	light		-1	-1	regen		-5	-5					0
-Runeword82	Melody	1		miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	skill	9	3	3	skill	13	3	3	skill	17	3	3	dmg-undead		300	300					0
+Runeword82	Melody	1		miss									ShaelKoNef	r13	r18	r04				dmg%		50	50	skilltab	0	3	3	oskill	9	3	3	oskill	13	3	3	oskill	17	3	3	dmg-undead		300	300					0
 Runeword83	Memory	1		staf	glov	miss							LumIoSolEth	r17	r16	r12	r05			mana%		20	20	red-mag		7	7	ac%		50	50	cast2		33	33	sor		3	3	skill	58	3	3	skill	42	2	2	0
 Runeword88	Nadir	1		helm	belt	glov	boot						NefTir	r04	r03					ac%		50	50	ac		10	10	light		-3	-3	charged	264	9	13	gold%		-33	-33	str		5	5					0
 Runeword116	Radiance	1		helm									NefSolIth	r04	r12	r06				light		5	5	enr		10	10	vit		10	10	red-mag		3	3	mana		33	33	ac%		75	75					0
