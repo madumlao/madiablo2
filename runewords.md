@@ -60,10 +60,9 @@ Melee Weapons {5}
 Clvl Required: 63
 
 - Indestructible
-- +260-310% Enhanced Damage (varies)
+- +300-350% Enhanced Damage (varies)
 - +9 To Minimum Damage
 - 7% Life Stolen Per Hit
-- 20% Chance of Crushing Blow
 - Hit Blinds Target
 - Slows Target By 33%
 - Replenish Mana 16%
@@ -97,9 +96,8 @@ Clvl Required: 65
 - 10% Chance To Cast Level 18 Life Tap On Striking
 - 20% Chance To Cast Level 20 Charged Bolt On Attack
 - Level 17 Might Aura When Equipped
-- +330-375% Enhanced Damage (varies)
+- +450-515% Enhanced Damage (varies)
 - Ignore Target's Defense
-- 60-70% Chance of Crushing Blow (varies)
 - Prevent Monster Heal
 - Hit Blinds Target
 - (0.5*Clvl)% Chance of Getting Magic Items (Based on Character Level) 
@@ -113,11 +111,10 @@ Clvl Required: 65
 - 5% Chance To Cast Level 23 Molten Boulder On Striking
 - 100% Chance To Cast level 45 Meteor When You Die
 - 15% Chance To Cast Level 22 Nova On Attack
-- +350% Enhanced Damage
+- +390% Enhanced Damage
 - Ignore Target's Defense
 - Adds 100-180 Magic Damage
 - 7% Mana Stolen Per Hit
-- 20% Chance Of Crushing Blow
 - 20% Deadly Strike
 - Prevent Monster Heal
 - +10 To Dexterity 
@@ -959,10 +956,9 @@ Clubs, Hammers, Maces {3}
 Clvl Required: 35 
 
 - +15% Increased Attack Speed
-- +120% Enhanced Damage
+- +200% Enhanced Damage
 - +200 to Attack Rating
 - Adds 3-14 Cold Damage (3 sec)
-- 40% Chance of Crushing Blow
 - Knockback
 - +10 to Vitality
 - Magic Damage Reduced By 2
